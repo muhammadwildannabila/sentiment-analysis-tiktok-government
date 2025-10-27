@@ -1,0 +1,36 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.4932983333,
+          -7.8657983333
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 595868,
+        "KLSTPN": "Toponim Perekonomian dan Perdagangan",
+        "FTYPE": "Pusat Perdagangan Tradisional (Pasar Eceran/Grosir/Induk)",
+        "NAMLOK": "Pasar Wisata Songgoriti",
+        "NAMSPE": "Pasar Wisata Songgoriti",
+        "NAMMAP": "Pasar Wisata Songgoriti Pasar Wisata Songgoriti",
+        "NAMGAZ": "Pasar Wisata Songgoriti, Pasar Wisata Songgoriti",
+        "KOORDINAT1": "07°51'56.87\" S  112°29'35.87\" T",
+        "ELEVASI": 1014.6,
+        "AKURASI": 2.2,
+        "ID_WILAYAH": 3579011003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Kelurahan Songgokerto",
+        "TGLSURVEI": "2023-10-06 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/595868_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/595868_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    }
+  ]
+}

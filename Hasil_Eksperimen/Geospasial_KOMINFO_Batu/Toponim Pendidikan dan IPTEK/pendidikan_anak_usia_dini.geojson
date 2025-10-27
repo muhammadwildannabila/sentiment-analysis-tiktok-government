@@ -1,0 +1,4469 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.52128311,
+          -7.80029989
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596265,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "PAUD",
+        "NAMSPE": "Krisan",
+        "NAMMAP": "PAUD Krisan",
+        "NAMGAZ": "Krisan, PAUD",
+        "KOORDINAT1": "07°48'01.08\" S  112°31'16.61\" T",
+        "ELEVASI": 1357.8,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579022003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Tulungrejo",
+        "TGLSURVEI": "2023-10-11 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596265_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.52908052,
+          -7.81570399
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596251,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "KB",
+        "NAMSPE": "RA 09 Kartini",
+        "NAMMAP": "KB RA 09 Kartini",
+        "NAMGAZ": "RA 09 Kartini, KB",
+        "KOORDINAT1": "07°48'56.53\" S  112°31'44.69\" T",
+        "ELEVASI": 1207.58,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579022003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Tulungrejo",
+        "TGLSURVEI": "2023-10-11 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596251_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5560616667,
+          -7.8841783333
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 613069,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Taman kanak kanak",
+        "NAMSPE": "Cendekia 01",
+        "NAMMAP": "Taman kanak kanak Cendekia 01",
+        "NAMGAZ": "Cendekia 01, Taman kanak kanak",
+        "KOORDINAT1": "07°53'03.04\" S  112°33'21.82\" T",
+        "ELEVASI": 365.4,
+        "AKURASI": 12.8,
+        "ID_WILAYAH": 3579032007,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Torongrejo",
+        "TGLSURVEI": "2023-11-22 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/613069_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/613069_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/613069_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5505116667,
+          -7.8797016667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 613001,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Taman kanak kanak",
+        "NAMSPE": "Cendekia 02",
+        "NAMMAP": "Taman kanak kanak Cendekia 02",
+        "NAMGAZ": "Cendekia 02, Taman kanak kanak",
+        "KOORDINAT1": "07°52'46.92\" S  112°33'01.84\" T",
+        "ELEVASI": 786.2,
+        "AKURASI": 2.2,
+        "ID_WILAYAH": 3579032007,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Torongrejo",
+        "TGLSURVEI": "2023-11-22 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/613001_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/613001_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/613001_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5591683333,
+          -7.88734
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 615661,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Paud",
+        "NAMSPE": "Mawar Kuning",
+        "NAMMAP": "Paud Mawar Kuning",
+        "NAMGAZ": "Mawar Kuning, Paud",
+        "KOORDINAT1": "07°53'14.42\" S  112°33'33.00\" T",
+        "ELEVASI": 754.4,
+        "AKURASI": 2.0,
+        "ID_WILAYAH": 3579032007,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Torongrejo",
+        "TGLSURVEI": "2023-11-28 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/615661_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/615661_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/615661_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5447868556,
+          -7.8910683934
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596016,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "PAUD",
+        "NAMSPE": "Kelompok Bermain \"Adinda Ceria\"",
+        "NAMMAP": "PAUD Kelompok Bermain \"Adinda Ceria\"",
+        "NAMGAZ": "Kelompok Bermain \"Adinda Ceria\", PAUD",
+        "KOORDINAT1": "07°53'27.84\" S  112°32'41.23\" T",
+        "ELEVASI": 816.0,
+        "AKURASI": 5.0,
+        "ID_WILAYAH": 3579032002,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Beji",
+        "TGLSURVEI": "2023-10-03 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596016_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/596016_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5697166667,
+          -7.8926283333
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 615648,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Paud",
+        "NAMSPE": "Mawar Merah",
+        "NAMMAP": "Paud Mawar Merah",
+        "NAMGAZ": "Mawar Merah, Paud",
+        "KOORDINAT1": "07°53'33.46\" S  112°34'10.98\" T",
+        "ELEVASI": 662.8,
+        "AKURASI": 7.6,
+        "ID_WILAYAH": 3579032007,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Torongrejo",
+        "TGLSURVEI": "2023-11-28 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/615648_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/615648_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/615648_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5538383333,
+          -7.8785766667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 601872,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "PAUD",
+        "NAMSPE": "KB Mawar Putih",
+        "NAMMAP": "PAUD KB Mawar Putih",
+        "NAMGAZ": "KB Mawar Putih, PAUD",
+        "KOORDINAT1": "07°52'42.87\" S  112°33'13.81\" T",
+        "ELEVASI": 762.2,
+        "AKURASI": 2.5,
+        "ID_WILAYAH": 3579032007,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Torongrejo",
+        "TGLSURVEI": "2023-10-24 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/601872_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/601872_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/601872_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.53898011,
+          -7.91099346
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 598943,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TK",
+        "NAMSPE": "Al Falah",
+        "NAMMAP": "TK Al Falah",
+        "NAMGAZ": "Al Falah, TK",
+        "KOORDINAT1": "07°54'39.57\" S  112°32'20.32\" T",
+        "ELEVASI": 892.864,
+        "AKURASI": 5.86227,
+        "ID_WILAYAH": 3579032004,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Tlekung",
+        "TGLSURVEI": "2023-10-16 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/598943_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/598943_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.53898011,
+          -7.91099346
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 598942,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "PAUD",
+        "NAMSPE": "Al Falah",
+        "NAMMAP": "PAUD Al Falah",
+        "NAMGAZ": "Al Falah, PAUD",
+        "KOORDINAT1": "07°54'39.57\" S  112°32'20.32\" T",
+        "ELEVASI": 892.864,
+        "AKURASI": 5.86227,
+        "ID_WILAYAH": 3579032004,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Tlekung",
+        "TGLSURVEI": "2023-10-16 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/598942_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/598942_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5392134,
+          -7.91179056
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 598946,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "RA",
+        "NAMSPE": "12 Al-Ikhlas",
+        "NAMMAP": "RA 12 Al-Ikhlas",
+        "NAMGAZ": "12 Al-Ikhlas , RA",
+        "KOORDINAT1": "07°54'42.44\" S  112°32'21.16\" T",
+        "ELEVASI": 898.572,
+        "AKURASI": 8.92862,
+        "ID_WILAYAH": 3579032004,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Tlekung",
+        "TGLSURVEI": "2023-10-16 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/598946_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/598946_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/598946_3.jpg",
+        "FOTO4": "https://sinar.big.go.id/assets/images/foto/598946_4.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.54081876,
+          -7.91702699
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 598929,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TK",
+        "NAMSPE": "Melati",
+        "NAMMAP": "TK Melati",
+        "NAMGAZ": "Melati, TK",
+        "KOORDINAT1": "07°55'01.29\" S  112°32'26.94\" T",
+        "ELEVASI": 877.196,
+        "AKURASI": 5.48097,
+        "ID_WILAYAH": 3579032004,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Tlekung",
+        "TGLSURVEI": "2023-10-16 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/598929_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/598929_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/598929_3.jpg",
+        "FOTO4": "https://sinar.big.go.id/assets/images/foto/598929_4.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.53670954,
+          -7.90963068
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 598915,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "PAUD",
+        "NAMSPE": "Dahlia 02",
+        "NAMMAP": "PAUD Dahlia 02",
+        "NAMGAZ": "Dahlia 02, PAUD",
+        "KOORDINAT1": "07°54'34.67\" S  112°32'12.15\" T",
+        "ELEVASI": 939.324,
+        "AKURASI": 8.76329,
+        "ID_WILAYAH": 3579032004,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Tlekung",
+        "TGLSURVEI": "2023-10-16 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/598915_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/598915_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.54468007,
+          -7.91491649
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 598941,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "PAUD",
+        "NAMSPE": "Qomarut Tholibin",
+        "NAMMAP": "PAUD Qomarut Tholibin",
+        "NAMGAZ": "Qomarut Tholibin, PAUD",
+        "KOORDINAT1": "07°54'53.69\" S  112°32'40.84\" T",
+        "ELEVASI": 811.987,
+        "AKURASI": 15.2021,
+        "ID_WILAYAH": 3579032004,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Tlekung",
+        "TGLSURVEI": "2023-10-16 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/598941_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/598941_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.54749378,
+          -7.91378423
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 598935,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Kelompok Bermain",
+        "NAMSPE": "Dahlia 01",
+        "NAMMAP": "Kelompok Bermain Dahlia 01",
+        "NAMGAZ": "Dahlia 01, Kelompok Bermain",
+        "KOORDINAT1": "07°54'49.62\" S  112°32'50.97\" T",
+        "ELEVASI": 799.374,
+        "AKURASI": 5.97376,
+        "ID_WILAYAH": 3579032004,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Tlekung",
+        "TGLSURVEI": "2023-10-16 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/598935_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/598935_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5477101281,
+          -7.8943632357
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596026,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TK",
+        "NAMSPE": "Asalia",
+        "NAMMAP": "TK Asalia",
+        "NAMGAZ": "Asalia, TK",
+        "KOORDINAT1": "07°53'39.70\" S  112°32'51.75\" T",
+        "ELEVASI": 827.0,
+        "AKURASI": 27.5,
+        "ID_WILAYAH": 3579032002,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Beji",
+        "TGLSURVEI": "2023-10-03 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596026_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/596026_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5366166667,
+          -7.92328
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 601234,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "PAUD",
+        "NAMSPE": "Dahlia 03",
+        "NAMMAP": "PAUD Dahlia 03",
+        "NAMGAZ": "Dahlia 03, PAUD",
+        "KOORDINAT1": "07°55'23.80\" S  112°32'11.82\" T",
+        "ELEVASI": 977.4,
+        "AKURASI": 2.2,
+        "ID_WILAYAH": 3579032004,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Tlekung",
+        "TGLSURVEI": "2023-10-22 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/601234_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/601234_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.53606203,
+          -7.91284529
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 598922,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TK",
+        "NAMSPE": "Darul Aqsho",
+        "NAMMAP": "TK Darul Aqsho",
+        "NAMGAZ": "Darul Aqsho, TK",
+        "KOORDINAT1": "07°54'46.24\" S  112°32'09.82\" T",
+        "ELEVASI": 898.82,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579032004,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Tlekung",
+        "TGLSURVEI": "2023-10-16 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/598922_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/598922_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/598922_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.54311615,
+          -7.87694572
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 617465,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "RA",
+        "NAMSPE": "05 Syarif Hidayatullah",
+        "NAMMAP": "RA 05 Syarif Hidayatullah",
+        "NAMGAZ": "05 Syarif Hidayatullah , RA",
+        "KOORDINAT1": "07°52'37.00\" S  112°32'35.21\" T",
+        "ELEVASI": 839.499,
+        "AKURASI": 21.5603,
+        "ID_WILAYAH": 3579011001,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Kelurahan Temas",
+        "TGLSURVEI": "2023-11-30 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/617465_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/617465_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/617465_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.54311615,
+          -7.87694572
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 617464,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "KB",
+        "NAMSPE": "El Kamil",
+        "NAMMAP": "KB El Kamil",
+        "NAMGAZ": "El Kamil, KB",
+        "KOORDINAT1": "07°52'37.00\" S  112°32'35.21\" T",
+        "ELEVASI": 839.499,
+        "AKURASI": 21.5603,
+        "ID_WILAYAH": 3579011001,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Kelurahan Temas",
+        "TGLSURVEI": "2023-12-01 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/617464_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/617464_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/617464_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.54550908,
+          -7.87648561
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 617462,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TK",
+        "NAMSPE": "Nurul Iman",
+        "NAMMAP": "TK Nurul Iman",
+        "NAMGAZ": "Nurul Iman, TK",
+        "KOORDINAT1": "07°52'35.34\" S  112°32'43.83\" T",
+        "ELEVASI": 827.092,
+        "AKURASI": 10.4681,
+        "ID_WILAYAH": 3579011001,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Kelurahan Temas",
+        "TGLSURVEI": "2023-11-21 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/617462_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/617462_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/617462_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.53751084,
+          -7.87770491
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 617460,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "RA",
+        "NAMSPE": "Siti Fatimah",
+        "NAMMAP": "RA Siti Fatimah",
+        "NAMGAZ": "Siti Fatimah , RA",
+        "KOORDINAT1": "07°52'39.73\" S  112°32'15.03\" T",
+        "ELEVASI": 866.121,
+        "AKURASI": 5.93228,
+        "ID_WILAYAH": 3579011001,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Kelurahan Temas",
+        "TGLSURVEI": "2023-12-01 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/617460_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/617460_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/617460_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5499878265,
+          -7.8961345833
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596033,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "SPS",
+        "NAMSPE": "Permata Hati",
+        "NAMMAP": "SPS Permata Hati",
+        "NAMGAZ": "Permata Hati, SPS",
+        "KOORDINAT1": "07°53'46.08\" S  112°32'59.95\" T",
+        "ELEVASI": 812.0,
+        "AKURASI": 8.5,
+        "ID_WILAYAH": 3579032002,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Beji",
+        "TGLSURVEI": "2023-10-03 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596033_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.53744255,
+          -7.8777749
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 617458,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "KB",
+        "NAMSPE": "Siti Fatimah",
+        "NAMMAP": "KB Siti Fatimah",
+        "NAMGAZ": "Siti Fatimah , KB",
+        "KOORDINAT1": "07°52'39.99\" S  112°32'14.79\" T",
+        "ELEVASI": 869.756,
+        "AKURASI": 11.9552,
+        "ID_WILAYAH": 3579011001,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Kelurahan Temas",
+        "TGLSURVEI": "2023-12-01 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/617458_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/617458_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/617458_3.jpg",
+        "FOTO4": "https://sinar.big.go.id/assets/images/foto/617458_4.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.53238953,
+          -7.88848873
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 617456,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Tk",
+        "NAMSPE": "Badiatul Huda",
+        "NAMMAP": "Tk Badiatul Huda",
+        "NAMGAZ": "Badiatul Huda, Tk",
+        "KOORDINAT1": "07°53'18.55\" S  112°31'56.60\" T",
+        "ELEVASI": 929.782,
+        "AKURASI": 11.0515,
+        "ID_WILAYAH": 3579011001,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Kelurahan Temas",
+        "TGLSURVEI": "2023-10-17 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/617456_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/617456_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/617456_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.53226759,
+          -7.88866527
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 617455,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Ra",
+        "NAMSPE": "Badiatul Huda",
+        "NAMMAP": "Ra Badiatul Huda",
+        "NAMGAZ": "Badiatul Huda, Ra",
+        "KOORDINAT1": "07°53'19.19\" S  112°31'56.16\" T",
+        "ELEVASI": 943.452,
+        "AKURASI": 4.14908,
+        "ID_WILAYAH": 3579011001,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Kelurahan Temas",
+        "TGLSURVEI": "2023-10-17 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/617455_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/617455_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/617455_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.53781349,
+          -7.88251818
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 617448,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TK",
+        "NAMSPE": "Teratai",
+        "NAMMAP": "TK Teratai",
+        "NAMGAZ": "Teratai , TK",
+        "KOORDINAT1": "07°52'57.06\" S  112°32'16.12\" T",
+        "ELEVASI": 885.958,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579011001,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Kelurahan Temas",
+        "TGLSURVEI": "2023-10-15 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/617448_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/617448_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/617448_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5324547291,
+          -7.8299635649
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 591777,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TK",
+        "NAMSPE": "Harapan Pertiwi 01",
+        "NAMMAP": "TK Harapan Pertiwi 01",
+        "NAMGAZ": "Harapan Pertiwi 01, TK",
+        "KOORDINAT1": "07°49'47.86\" S  112°31'56.83\" T",
+        "ELEVASI": 1100.56,
+        "AKURASI": 57.888,
+        "ID_WILAYAH": 3579022004,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Sumbergondo",
+        "TGLSURVEI": "2023-10-02 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/591777_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/591777_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5325191021,
+          -7.829888463
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 591776,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "SPS",
+        "NAMSPE": "Manalagi 01",
+        "NAMMAP": "SPS Manalagi 01",
+        "NAMGAZ": "Manalagi 01, SPS",
+        "KOORDINAT1": "07°49'47.59\" S  112°31'57.06\" T",
+        "ELEVASI": 0.0,
+        "AKURASI": 89.0,
+        "ID_WILAYAH": 3579022004,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Sumbergondo",
+        "TGLSURVEI": "2023-10-02 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/591776_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/591776_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5336983333,
+          -7.8186833333
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 594411,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Pendidikan anak usia dini",
+        "NAMSPE": "Tk harapan pertiwi 2",
+        "NAMMAP": "Pendidikan anak usia dini Tk harapan pertiwi 2",
+        "NAMGAZ": "Tk harapan pertiwi 2, Pendidikan anak usia dini",
+        "KOORDINAT1": "07°49'07.26\" S  112°32'01.31\" T",
+        "ELEVASI": 1160.6,
+        "AKURASI": 10.5,
+        "ID_WILAYAH": 3579022004,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Sumbergondo",
+        "TGLSURVEI": "2023-10-03 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/594411_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/594411_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5331033333,
+          -7.8169566667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 594410,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Pendidikan anak usia dini",
+        "NAMSPE": "PAUD SPS Manalagi 03",
+        "NAMMAP": "Pendidikan anak usia dini PAUD SPS Manalagi 03",
+        "NAMGAZ": "PAUD SPS Manalagi 03, Pendidikan anak usia dini",
+        "KOORDINAT1": "07°49'01.04\" S  112°31'59.17\" T",
+        "ELEVASI": 1062.9,
+        "AKURASI": 4.6,
+        "ID_WILAYAH": 3579022004,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Sumbergondo",
+        "TGLSURVEI": "2023-10-03 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/594410_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/594410_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.51319388,
+          -7.85726097
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 614575,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "RA",
+        "NAMSPE": "Al Hidayah 06",
+        "NAMMAP": "RA Al Hidayah 06",
+        "NAMGAZ": "Al Hidayah 06, RA",
+        "KOORDINAT1": "07°51'26.13\" S  112°30'47.49\" T",
+        "ELEVASI": 953.0,
+        "AKURASI": 12.136,
+        "ID_WILAYAH": 3579012005,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Sumberejo",
+        "TGLSURVEI": "2023-10-03 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/614575_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/614575_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/614575_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.51321452,
+          -7.85729544
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 614574,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "KB",
+        "NAMSPE": "Az Zahra",
+        "NAMMAP": "KB Az Zahra",
+        "NAMGAZ": "Az Zahra, KB",
+        "KOORDINAT1": "07°51'26.26\" S  112°30'47.57\" T",
+        "ELEVASI": 947.0,
+        "AKURASI": 18.204,
+        "ID_WILAYAH": 3579012005,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Sumberejo",
+        "TGLSURVEI": "2023-10-03 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/614574_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/614574_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/614574_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.51335145,
+          -7.85792094
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 614573,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TK",
+        "NAMSPE": "Nusa Indah 02",
+        "NAMMAP": "TK Nusa Indah 02",
+        "NAMGAZ": "Nusa Indah 02, TK",
+        "KOORDINAT1": "07°51'28.51\" S  112°30'48.06\" T",
+        "ELEVASI": 965.0,
+        "AKURASI": 42.476,
+        "ID_WILAYAH": 3579012005,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Sumberejo",
+        "TGLSURVEI": "2023-10-03 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/614573_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/614573_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/614573_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.51333913,
+          -7.85776406
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 614572,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "KB",
+        "NAMSPE": "Harapan Kita 02",
+        "NAMMAP": "KB Harapan Kita 02",
+        "NAMGAZ": "Harapan Kita 02, KB",
+        "KOORDINAT1": "07°51'27.95\" S  112°30'48.02\" T",
+        "ELEVASI": 0.0,
+        "AKURASI": 0.0,
+        "ID_WILAYAH": 3579012005,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Sumberejo",
+        "TGLSURVEI": "2023-10-03 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/614572_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/614572_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.51319388,
+          -7.85726097
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 614565,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "RA",
+        "NAMSPE": "Al Hidayah 06",
+        "NAMMAP": "RA Al Hidayah 06",
+        "NAMGAZ": "Al Hidayah 06, RA",
+        "KOORDINAT1": "07°51'26.13\" S  112°30'47.49\" T",
+        "ELEVASI": 953.0,
+        "AKURASI": 12.136,
+        "ID_WILAYAH": 3579012005,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Sumberejo",
+        "TGLSURVEI": "2023-10-03 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/614565_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/614565_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/614565_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.51321452,
+          -7.85729544
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 614562,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "KB",
+        "NAMSPE": "Az Zahra",
+        "NAMMAP": "KB Az Zahra",
+        "NAMGAZ": "Az Zahra, KB",
+        "KOORDINAT1": "07°51'26.26\" S  112°30'47.57\" T",
+        "ELEVASI": 947.0,
+        "AKURASI": 18.204,
+        "ID_WILAYAH": 3579012005,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Sumberejo",
+        "TGLSURVEI": "2023-10-03 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/614562_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/614562_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/614562_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.51335145,
+          -7.85792094
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 614560,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TK",
+        "NAMSPE": "Nusa Indah 02",
+        "NAMMAP": "TK Nusa Indah 02",
+        "NAMGAZ": "Nusa Indah 02, TK",
+        "KOORDINAT1": "07°51'28.51\" S  112°30'48.06\" T",
+        "ELEVASI": 965.0,
+        "AKURASI": 42.476,
+        "ID_WILAYAH": 3579012005,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Sumberejo",
+        "TGLSURVEI": "2023-10-03 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/614560_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/614560_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/614560_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5118607283,
+          -7.8582447767
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 614559,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "PAUD",
+        "NAMSPE": "Wahidiyah",
+        "NAMMAP": "PAUD Wahidiyah",
+        "NAMGAZ": "Wahidiyah, PAUD",
+        "KOORDINAT1": "07°51'29.68\" S  112°30'42.69\" T",
+        "ELEVASI": 956.0,
+        "AKURASI": 33.374,
+        "ID_WILAYAH": 3579012005,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Sumberejo",
+        "TGLSURVEI": "2023-10-03 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/614559_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/614559_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/614559_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.51333913,
+          -7.85776406
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 614558,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "KB",
+        "NAMSPE": "Harapan Kita 02",
+        "NAMMAP": "KB Harapan Kita 02",
+        "NAMGAZ": "Harapan Kita 02, KB",
+        "KOORDINAT1": "07°51'27.95\" S  112°30'48.02\" T",
+        "ELEVASI": 0.0,
+        "AKURASI": 0.0,
+        "ID_WILAYAH": 3579012005,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Sumberejo",
+        "TGLSURVEI": "2023-10-03 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/614558_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/614558_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5055253506,
+          -7.8584378958
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 614555,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TK",
+        "NAMSPE": "Al-Izzah 01",
+        "NAMMAP": "TK Al-Izzah 01",
+        "NAMGAZ": "Al-Izzah 01, TK",
+        "KOORDINAT1": "07°51'30.37\" S  112°30'19.89\" T",
+        "ELEVASI": 993.0,
+        "AKURASI": 40.959,
+        "ID_WILAYAH": 3579012005,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Sumberejo",
+        "TGLSURVEI": "2023-10-03 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/614555_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/614555_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/614555_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.54835587,
+          -7.8896427993
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596052,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "PAUD",
+        "NAMSPE": "SPS Ananda Ceria",
+        "NAMMAP": "PAUD SPS Ananda Ceria",
+        "NAMGAZ": "SPS Ananda Ceria, PAUD",
+        "KOORDINAT1": "07°53'22.71\" S  112°32'54.08\" T",
+        "ELEVASI": 791.0,
+        "AKURASI": 10.5,
+        "ID_WILAYAH": 3579032002,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Beji",
+        "TGLSURVEI": "2023-10-10 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596052_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/596052_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5056272745,
+          -7.8584700823
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 614554,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "KB",
+        "NAMSPE": "Al - Izzah",
+        "NAMMAP": "KB Al - Izzah",
+        "NAMGAZ": "Al - Izzah, KB",
+        "KOORDINAT1": "07°51'30.49\" S  112°30'20.25\" T",
+        "ELEVASI": 978.0,
+        "AKURASI": 219.965,
+        "ID_WILAYAH": 3579012005,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Sumberejo",
+        "TGLSURVEI": "2023-10-03 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/614554_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/614554_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/614554_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5189666667,
+          -7.85247
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596122,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "KB",
+        "NAMSPE": "Harapan Kita 01",
+        "NAMMAP": "KB Harapan Kita 01",
+        "NAMGAZ": "Harapan Kita 01, KB",
+        "KOORDINAT1": "07°51'08.89\" S  112°31'08.28\" T",
+        "ELEVASI": 926.4,
+        "AKURASI": 6.1,
+        "ID_WILAYAH": 3579012005,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Sumberejo",
+        "TGLSURVEI": "2023-10-03 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596122_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/596122_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/596122_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.51933,
+          -7.8525683333
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596121,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TK",
+        "NAMSPE": "Nusa Indah 01",
+        "NAMMAP": "TK Nusa Indah 01",
+        "NAMGAZ": "Nusa Indah 01, TK",
+        "KOORDINAT1": "07°51'09.24\" S  112°31'09.58\" T",
+        "ELEVASI": 931.1,
+        "AKURASI": 2.4,
+        "ID_WILAYAH": 3579012005,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Sumberejo",
+        "TGLSURVEI": "2023-10-03 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596121_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/596121_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/596121_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.51320708,
+          -7.85730629
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 591727,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "RA 06 Al-Hidayah",
+        "NAMSPE": "Al-Hidayah",
+        "NAMMAP": "RA 06 Al-Hidayah Al-Hidayah",
+        "NAMGAZ": "Al-Hidayah, RA 06 Al-Hidayah",
+        "KOORDINAT1": "07°51'26.30\" S  112°30'47.54\" T",
+        "ELEVASI": 934.0,
+        "AKURASI": 4.551,
+        "ID_WILAYAH": 3579012005,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Sumberejo",
+        "TGLSURVEI": "2023-10-02 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/591727_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/591727_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/591727_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5492295995,
+          -7.8897459386
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596057,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "PAUD",
+        "NAMSPE": "Raudlatul Athfal II \"Siti Khadijah\"",
+        "NAMMAP": "PAUD Raudlatul Athfal II \"Siti Khadijah\"",
+        "NAMGAZ": "Raudlatul Athfal II \"Siti Khadijah\", PAUD",
+        "KOORDINAT1": "07°53'23.08\" S  112°32'57.22\" T",
+        "ELEVASI": 845.0,
+        "AKURASI": 12.0,
+        "ID_WILAYAH": 3579032002,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Beji",
+        "TGLSURVEI": "2023-10-10 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596057_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/596057_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.512963,
+          -7.85783185
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 591726,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TK Nusa Indah 02",
+        "NAMSPE": "Nusa Indah 02",
+        "NAMMAP": "TK Nusa Indah 02 Nusa Indah 02",
+        "NAMGAZ": "Nusa Indah 02, TK Nusa Indah 02",
+        "KOORDINAT1": "07°51'28.19\" S  112°30'46.66\" T",
+        "ELEVASI": 948.0,
+        "AKURASI": 22.755,
+        "ID_WILAYAH": 3579012005,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Sumberejo",
+        "TGLSURVEI": "2023-10-02 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/591726_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/591726_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/591726_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5130507,
+          -7.8578098
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 591725,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "KB Harapan Kita 02",
+        "NAMSPE": "Harapan Kita 02",
+        "NAMMAP": "KB Harapan Kita 02 Harapan Kita 02",
+        "NAMGAZ": "Harapan Kita 02, KB Harapan Kita 02",
+        "KOORDINAT1": "07°51'28.11\" S  112°30'46.98\" T",
+        "ELEVASI": 929.0,
+        "AKURASI": 19.721,
+        "ID_WILAYAH": 3579012005,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Sumberejo",
+        "TGLSURVEI": "2023-10-02 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/591725_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/591725_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/591725_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.511485219,
+          -7.8586363792
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 591718,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "PAUD Wahidiyah",
+        "NAMSPE": "Wahidiyah",
+        "NAMMAP": "PAUD Wahidiyah Wahidiyah",
+        "NAMGAZ": "Wahidiyah, PAUD Wahidiyah",
+        "KOORDINAT1": "07°51'31.09\" S  112°30'41.34\" T",
+        "ELEVASI": 961.0,
+        "AKURASI": 69.782,
+        "ID_WILAYAH": 3579012005,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Sumberejo",
+        "TGLSURVEI": "2023-10-02 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/591718_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/591718_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/591718_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.50563638,
+          -7.85842417
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 591714,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "KB & TK Al-Izzah 01",
+        "NAMSPE": "Al-Izzah 01",
+        "NAMMAP": "KB & TK Al-Izzah 01 Al-Izzah 01",
+        "NAMGAZ": "Al-Izzah 01, KB & TK Al-Izzah 01",
+        "KOORDINAT1": "07°51'30.32\" S  112°30'20.29\" T",
+        "ELEVASI": 986.0,
+        "AKURASI": 15.17,
+        "ID_WILAYAH": 3579012005,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Sumberejo",
+        "TGLSURVEI": "2023-10-02 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/591714_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/591714_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/591714_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.549374355,
+          -7.8909858316
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596062,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "PAUD",
+        "NAMSPE": "SPS Kasih Bunda",
+        "NAMMAP": "PAUD SPS Kasih Bunda",
+        "NAMGAZ": "SPS Kasih Bunda, PAUD",
+        "KOORDINAT1": "07°53'27.54\" S  112°32'57.74\" T",
+        "ELEVASI": 826.0,
+        "AKURASI": 9.5,
+        "ID_WILAYAH": 3579032002,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Beji",
+        "TGLSURVEI": "2023-10-10 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596062_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/596062_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5132501125,
+          -7.8571397066
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 591705,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "KB Az - Zahra",
+        "NAMSPE": "Az Zahra",
+        "NAMMAP": "KB Az - Zahra Az Zahra",
+        "NAMGAZ": "Az Zahra, KB Az - Zahra",
+        "KOORDINAT1": "07°51'25.70\" S  112°30'47.70\" T",
+        "ELEVASI": 945.0,
+        "AKURASI": 25.789,
+        "ID_WILAYAH": 3579012005,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Sumberejo",
+        "TGLSURVEI": "2023-10-02 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/591705_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/591705_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/591705_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.52900174,
+          -7.76312417
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 618765,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TK PAUD",
+        "NAMSPE": "SPS Berlian Bunda",
+        "NAMMAP": "TK PAUD SPS Berlian Bunda",
+        "NAMGAZ": "SPS Berlian Bunda, TK PAUD",
+        "KOORDINAT1": "07°45'47.24\" S  112°31'44.40\" T",
+        "ELEVASI": 1667.83,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579022009,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Sumberbrantas",
+        "TGLSURVEI": "2023-10-24 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/618765_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/618765_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.52924145,
+          -7.77257503
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 618758,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Gedung TK Paud As - Sakinah",
+        "NAMSPE": "Tarbiatul Athfal Mutiara Hati",
+        "NAMMAP": "Gedung TK Paud As - Sakinah Tarbiatul Athfal Mutiara Hati",
+        "NAMGAZ": "Tarbiatul Athfal Mutiara Hati, Gedung TK Paud As - Sakinah",
+        "KOORDINAT1": "07°46'21.27\" S  112°31'45.26\" T",
+        "ELEVASI": 1629.09,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579022009,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Sumberbrantas",
+        "TGLSURVEI": "2023-10-24 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/618758_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/618758_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.53066677,
+          -7.76820449
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 600403,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Yayasan",
+        "NAMSPE": "Taman Kanak-kanak Mardi Putra 03",
+        "NAMMAP": "Yayasan Taman Kanak-kanak Mardi Putra 03",
+        "NAMGAZ": "Taman Kanak-kanak Mardi Putra 03, Yayasan",
+        "KOORDINAT1": "07°46'05.53\" S  112°31'50.40\" T",
+        "ELEVASI": 1667.35,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579022009,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Sumberbrantas",
+        "TGLSURVEI": "2023-10-20 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/600403_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/600403_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5512244087,
+          -7.8932762286
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596067,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TK",
+        "NAMSPE": "Aisyiyah Bustanul Athfal 04",
+        "NAMMAP": "TK Aisyiyah Bustanul Athfal 04",
+        "NAMGAZ": "Aisyiyah Bustanul Athfal 04, TK",
+        "KOORDINAT1": "07°53'35.79\" S  112°33'04.40\" T",
+        "ELEVASI": 800.0,
+        "AKURASI": 8.0,
+        "ID_WILAYAH": 3579032002,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Beji",
+        "TGLSURVEI": "2023-10-10 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596067_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/596067_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.50500075,
+          -7.86517377
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 594979,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TK",
+        "NAMSPE": "kuncup Bunga",
+        "NAMMAP": "TK kuncup Bunga",
+        "NAMGAZ": "kuncup Bunga, TK",
+        "KOORDINAT1": "07°51'54.62\" S  112°30'18.00\" T",
+        "ELEVASI": 1002.06,
+        "AKURASI": 5.78168,
+        "ID_WILAYAH": 3579011003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Kelurahan Songgokerto",
+        "TGLSURVEI": "2023-10-09 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/594979_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/594979_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.50419556,
+          -7.8694745
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 594974,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Pos Paud",
+        "NAMSPE": "ROSELLA",
+        "NAMMAP": "Pos Paud ROSELLA",
+        "NAMGAZ": "ROSELLA, Pos Paud",
+        "KOORDINAT1": "07°52'10.10\" S  112°30'15.10\" T",
+        "ELEVASI": 1028.84,
+        "AKURASI": 15.8534,
+        "ID_WILAYAH": 3579011003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Kelurahan Songgokerto",
+        "TGLSURVEI": "2023-10-09 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/594974_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5357166667,
+          -7.8789383333
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 612171,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TK",
+        "NAMSPE": "Immanuel",
+        "NAMMAP": "TK Immanuel",
+        "NAMGAZ": "Immanuel, TK",
+        "KOORDINAT1": "07°52'44.17\" S  112°32'08.58\" T",
+        "ELEVASI": 892.4,
+        "AKURASI": 3.9,
+        "ID_WILAYAH": 3579011004,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Kelurahan Sisir",
+        "TGLSURVEI": "2023-10-15 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/612171_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/612171_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/612171_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5254483333,
+          -7.8764833333
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 612170,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "PAUD",
+        "NAMSPE": "Bunda Binar",
+        "NAMMAP": "PAUD Bunda Binar",
+        "NAMGAZ": "Bunda Binar, PAUD",
+        "KOORDINAT1": "07°52'35.34\" S  112°31'31.61\" T",
+        "ELEVASI": 920.8,
+        "AKURASI": 5.2,
+        "ID_WILAYAH": 3579011004,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Kelurahan Sisir",
+        "TGLSURVEI": "2023-10-15 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/612170_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/612170_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/612170_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.526785,
+          -7.8732083333
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 612168,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "PAUD",
+        "NAMSPE": "Hajjah Mariyam",
+        "NAMMAP": "PAUD Hajjah Mariyam",
+        "NAMGAZ": "Hajjah Mariyam, PAUD",
+        "KOORDINAT1": "07°52'23.55\" S  112°31'36.42\" T",
+        "ELEVASI": 904.0,
+        "AKURASI": 2.4,
+        "ID_WILAYAH": 3579011004,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Kelurahan Sisir",
+        "TGLSURVEI": "2023-10-15 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/612168_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/612168_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/612168_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5271283333,
+          -7.8731983333
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 612167,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TK",
+        "NAMSPE": "Hajjah Mariyam",
+        "NAMMAP": "TK Hajjah Mariyam",
+        "NAMGAZ": "Hajjah Mariyam, TK",
+        "KOORDINAT1": "07°52'23.51\" S  112°31'37.66\" T",
+        "ELEVASI": 903.9,
+        "AKURASI": 3.9,
+        "ID_WILAYAH": 3579011004,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Kelurahan Sisir",
+        "TGLSURVEI": "2023-10-15 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/612167_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/612167_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/612167_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5262833333,
+          -7.8737966667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 612162,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TK",
+        "NAMSPE": "Citra Bunda",
+        "NAMMAP": "TK Citra Bunda",
+        "NAMGAZ": "Citra Bunda, TK",
+        "KOORDINAT1": "07°52'25.66\" S  112°31'34.62\" T",
+        "ELEVASI": 908.2,
+        "AKURASI": 2.3,
+        "ID_WILAYAH": 3579011004,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Kelurahan Sisir",
+        "TGLSURVEI": "2023-10-15 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/612162_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/612162_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/612162_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5262833333,
+          -7.8737966667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 612161,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "KB",
+        "NAMSPE": "Citra Bunda",
+        "NAMMAP": "KB Citra Bunda",
+        "NAMGAZ": "Citra Bunda, KB",
+        "KOORDINAT1": "07°52'25.66\" S  112°31'34.62\" T",
+        "ELEVASI": 908.2,
+        "AKURASI": 2.3,
+        "ID_WILAYAH": 3579011004,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Kelurahan Sisir",
+        "TGLSURVEI": "2023-10-15 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/612161_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/612161_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/612161_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.53056281,
+          -7.85173885
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 595991,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TK",
+        "NAMSPE": "Tk Bhina Putra 03",
+        "NAMMAP": "TK Tk Bhina Putra 03",
+        "NAMGAZ": "Tk Bhina Putra 03, TK",
+        "KOORDINAT1": "07°51'06.26\" S  112°31'50.02\" T",
+        "ELEVASI": 952.97,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579022008,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Bulukerto",
+        "TGLSURVEI": "2023-09-29 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/595991_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.53022,
+          -7.86905
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 612155,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TK",
+        "NAMSPE": "PGRI 03",
+        "NAMMAP": "TK PGRI 03",
+        "NAMGAZ": "PGRI 03, TK",
+        "KOORDINAT1": "07°52'08.58\" S  112°31'48.79\" T",
+        "ELEVASI": 894.6,
+        "AKURASI": 1.6,
+        "ID_WILAYAH": 3579011004,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Kelurahan Sisir",
+        "TGLSURVEI": "2023-10-15 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/612155_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/612155_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/612155_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.529435,
+          -7.8799516667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 612150,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TK",
+        "NAMSPE": "Kartika",
+        "NAMMAP": "TK Kartika",
+        "NAMGAZ": "Kartika, TK",
+        "KOORDINAT1": "07°52'47.82\" S  112°31'45.96\" T",
+        "ELEVASI": 913.8,
+        "AKURASI": 4.6,
+        "ID_WILAYAH": 3579011004,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Kelurahan Sisir",
+        "TGLSURVEI": "2023-10-15 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/612150_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/612150_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/612150_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.53045925,
+          -7.83803453
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 595996,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TK",
+        "NAMSPE": "Taman Kanak-kanak Bhina Putra 2",
+        "NAMMAP": "TK Taman Kanak-kanak Bhina Putra 2",
+        "NAMGAZ": "Taman Kanak-kanak Bhina Putra 2, TK",
+        "KOORDINAT1": "07°50'16.92\" S  112°31'49.65\" T",
+        "ELEVASI": 1031.68,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579022008,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Bulukerto",
+        "TGLSURVEI": "2023-09-29 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/595996_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5317183333,
+          -7.8698566667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 612140,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "PAUD",
+        "NAMSPE": "Al-Furqon",
+        "NAMMAP": "PAUD Al-Furqon",
+        "NAMGAZ": "Al-Furqon, PAUD",
+        "KOORDINAT1": "07°52'11.48\" S  112°31'54.18\" T",
+        "ELEVASI": 898.7,
+        "AKURASI": 3.9,
+        "ID_WILAYAH": 3579011004,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Kelurahan Sisir",
+        "TGLSURVEI": "2023-10-12 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/612140_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/612140_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/612140_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.52885,
+          -7.8691116667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 612139,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TK",
+        "NAMSPE": "Anggrek Bulan",
+        "NAMMAP": "TK Anggrek Bulan",
+        "NAMGAZ": "Anggrek Bulan, TK",
+        "KOORDINAT1": "07°52'08.80\" S  112°31'43.86\" T",
+        "ELEVASI": 888.6,
+        "AKURASI": 2.1,
+        "ID_WILAYAH": 3579011004,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Kelurahan Sisir",
+        "TGLSURVEI": "2023-10-12 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/612139_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/612139_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/612139_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5241633333,
+          -7.8649933333
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 612134,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "SPS",
+        "NAMSPE": "Anggrek Bulan 12",
+        "NAMMAP": "SPS Anggrek Bulan 12",
+        "NAMGAZ": "Anggrek Bulan 12, SPS",
+        "KOORDINAT1": "07°51'53.97\" S  112°31'26.98\" T",
+        "ELEVASI": 907.0,
+        "AKURASI": 1.6,
+        "ID_WILAYAH": 3579011004,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Kelurahan Sisir",
+        "TGLSURVEI": "2023-10-12 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/612134_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/612134_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/612134_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5260766667,
+          -7.8505916667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 595925,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TK",
+        "NAMSPE": "Mawar Indah 01",
+        "NAMMAP": "TK Mawar Indah 01",
+        "NAMGAZ": "Mawar Indah 01, TK",
+        "KOORDINAT1": "07°51'02.13\" S  112°31'33.87\" T",
+        "ELEVASI": 953.1,
+        "AKURASI": 2.3,
+        "ID_WILAYAH": 3579012007,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Sidomulyo",
+        "TGLSURVEI": "2023-10-02 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/595925_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/595925_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/595925_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5274083333,
+          -7.8438566667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 595917,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "PAUD",
+        "NAMSPE": "Kuntum Khoiro Ummah",
+        "NAMMAP": "PAUD Kuntum Khoiro Ummah",
+        "NAMGAZ": "Kuntum Khoiro Ummah, PAUD",
+        "KOORDINAT1": "07°50'37.88\" S  112°31'38.67\" T",
+        "ELEVASI": 979.5,
+        "AKURASI": 1.5,
+        "ID_WILAYAH": 3579012007,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Sidomulyo",
+        "TGLSURVEI": "2023-10-02 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/595917_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/595917_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/595917_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.52732,
+          -7.8438866667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 595916,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "RA",
+        "NAMSPE": "Al Hasanah",
+        "NAMMAP": "RA Al Hasanah",
+        "NAMGAZ": "Al Hasanah, RA",
+        "KOORDINAT1": "07°50'37.99\" S  112°31'38.35\" T",
+        "ELEVASI": 980.2,
+        "AKURASI": 10.3,
+        "ID_WILAYAH": 3579012007,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Sidomulyo",
+        "TGLSURVEI": "2023-10-02 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/595916_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/595916_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/595916_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5287242793,
+          -7.8555512102
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596888,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "PAUD",
+        "NAMSPE": "Yaa Bunaya",
+        "NAMMAP": "PAUD Yaa Bunaya",
+        "NAMGAZ": "Yaa Bunaya, PAUD",
+        "KOORDINAT1": "07°51'19.98\" S  112°31'43.40\" T",
+        "ELEVASI": 924.0,
+        "AKURASI": 12.0,
+        "ID_WILAYAH": 3579012007,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Sidomulyo",
+        "TGLSURVEI": "2023-10-13 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596888_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/596888_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/596888_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5271516667,
+          -7.8388
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 591053,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TK",
+        "NAMSPE": "Mardisiwi 1",
+        "NAMMAP": "TK Mardisiwi 1",
+        "NAMGAZ": "Mardisiwi 1, TK",
+        "KOORDINAT1": "07°50'19.68\" S  112°31'37.74\" T",
+        "ELEVASI": 1008.6,
+        "AKURASI": 1.8,
+        "ID_WILAYAH": 3579022001,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Punten",
+        "TGLSURVEI": "2023-09-30 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/591053_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/591053_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5270766667,
+          -7.8385516667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 591035,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Paud",
+        "NAMSPE": "SPS Mardisiwi 01",
+        "NAMMAP": "Paud SPS Mardisiwi 01",
+        "NAMGAZ": "SPS Mardisiwi 01, Paud",
+        "KOORDINAT1": "07°50'18.78\" S  112°31'37.47\" T",
+        "ELEVASI": 1011.0,
+        "AKURASI": 5.1,
+        "ID_WILAYAH": 3579022001,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Punten",
+        "TGLSURVEI": "2023-09-30 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/591035_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/591035_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5079379138,
+          -7.8683790425
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 611741,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Taman Kanak Kanak Islam",
+        "NAMSPE": "Thoybah",
+        "NAMMAP": "Taman Kanak Kanak Islam Thoybah",
+        "NAMGAZ": "Thoybah, Taman Kanak Kanak Islam",
+        "KOORDINAT1": "07°52'06.16\" S  112°30'28.57\" T",
+        "ELEVASI": 995.0,
+        "AKURASI": 4.5,
+        "ID_WILAYAH": 3579012008,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Pesanggrahan",
+        "TGLSURVEI": "2023-10-25 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/611741_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/611741_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5081133333,
+          -7.8735216667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 611574,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Kelompok Bermain-Raudhatul Athfal",
+        "NAMSPE": "Cempaka Putih",
+        "NAMMAP": "Kelompok Bermain-Raudhatul Athfal Cempaka Putih",
+        "NAMGAZ": "Cempaka Putih, Kelompok Bermain-Raudhatul Athfal",
+        "KOORDINAT1": "07°52'24.67\" S  112°30'29.20\" T",
+        "ELEVASI": 1003.4,
+        "AKURASI": 19.3,
+        "ID_WILAYAH": 3579012008,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Pesanggrahan",
+        "TGLSURVEI": "2023-11-03 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/611574_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/611574_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5080416667,
+          -7.8683383333
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 611569,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Taman Kanak Islam Terpadu",
+        "NAMSPE": "Thoybah",
+        "NAMMAP": "Taman Kanak Islam Terpadu Thoybah",
+        "NAMGAZ": "Thoybah, Taman Kanak Islam Terpadu",
+        "KOORDINAT1": "07°52'06.01\" S  112°30'28.95\" T",
+        "ELEVASI": 986.3,
+        "AKURASI": 2.5,
+        "ID_WILAYAH": 3579012008,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Pesanggrahan",
+        "TGLSURVEI": "2023-11-03 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/611569_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/611569_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5130416667,
+          -7.8705533333
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 611566,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Pendidikan Anak Usia Dini",
+        "NAMSPE": "Al Munqidz",
+        "NAMMAP": "Pendidikan Anak Usia Dini Al Munqidz",
+        "NAMGAZ": "Al Munqidz, Pendidikan Anak Usia Dini",
+        "KOORDINAT1": "07°52'13.99\" S  112°30'46.95\" T",
+        "ELEVASI": 967.5,
+        "AKURASI": 2.2,
+        "ID_WILAYAH": 3579012008,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Pesanggrahan",
+        "TGLSURVEI": "2023-10-25 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/611566_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/611566_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.518715,
+          -7.8655816667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 611554,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Kelompok Belajar - Raudhatul Athfal",
+        "NAMSPE": "Darul Ulum 02",
+        "NAMMAP": "Kelompok Belajar - Raudhatul Athfal Darul Ulum 02",
+        "NAMGAZ": "Darul Ulum 02, Kelompok Belajar - Raudhatul Athfal",
+        "KOORDINAT1": "07°51'56.09\" S  112°31'07.37\" T",
+        "ELEVASI": 936.8,
+        "AKURASI": 2.1,
+        "ID_WILAYAH": 3579012008,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Pesanggrahan",
+        "TGLSURVEI": "2023-10-21 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/611554_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/611554_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5011833333,
+          -7.8842866667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 600978,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Taman Kanak-Kanak",
+        "NAMSPE": "Mutiara Abadi",
+        "NAMMAP": "Taman Kanak-Kanak Mutiara Abadi",
+        "NAMGAZ": "Mutiara Abadi, Taman Kanak-Kanak",
+        "KOORDINAT1": "07°53'03.43\" S  112°30'04.26\" T",
+        "ELEVASI": 1253.1,
+        "AKURASI": 1.6,
+        "ID_WILAYAH": 3579012008,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Pesanggrahan",
+        "TGLSURVEI": "2023-10-20 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/600978_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/600978_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.51407,
+          -7.8735716667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 600976,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Taman Kanak-Kanak",
+        "NAMSPE": "Dewi Sartika",
+        "NAMMAP": "Taman Kanak-Kanak Dewi Sartika",
+        "NAMGAZ": "Dewi Sartika, Taman Kanak-Kanak",
+        "KOORDINAT1": "07°52'24.85\" S  112°30'50.65\" T",
+        "ELEVASI": 973.3,
+        "AKURASI": 1.7,
+        "ID_WILAYAH": 3579012008,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Pesanggrahan",
+        "TGLSURVEI": "2023-10-20 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/600976_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/600976_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.57924,
+          -7.9211266667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 616736,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Taman Kanak-Kanak",
+        "NAMSPE": "Al Fathimiyah",
+        "NAMMAP": "Taman Kanak-Kanak Al Fathimiyah",
+        "NAMGAZ": "Al Fathimiyah, Taman Kanak-Kanak",
+        "KOORDINAT1": "07°55'16.05\" S  112°34'45.26\" T",
+        "ELEVASI": 0.0,
+        "AKURASI": 0.0,
+        "ID_WILAYAH": 3579032006,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Pendem",
+        "TGLSURVEI": "2023-11-30 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/616736_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/616736_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/616736_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.57924,
+          -7.9211266667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 616705,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Taman Pendidikan Al-Quran",
+        "NAMSPE": "TK Plus Hidayatur Rohmah",
+        "NAMMAP": "Taman Pendidikan Al-Quran TK Plus Hidayatur Rohmah",
+        "NAMGAZ": "TK Plus Hidayatur Rohmah, Taman Pendidikan Al-Quran",
+        "KOORDINAT1": "07°55'16.05\" S  112°34'45.26\" T",
+        "ELEVASI": 0.0,
+        "AKURASI": 0.0,
+        "ID_WILAYAH": 3579032006,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Pendem",
+        "TGLSURVEI": "2023-11-30 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/616705_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/616705_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5906850677,
+          -7.900140672
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 615499,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "SPS",
+        "NAMSPE": "Pelita Bunda",
+        "NAMMAP": "SPS Pelita Bunda",
+        "NAMGAZ": "Pelita Bunda, SPS",
+        "KOORDINAT1": "07°54'00.50\" S  112°35'26.46\" T",
+        "ELEVASI": 643.0,
+        "AKURASI": 6.5,
+        "ID_WILAYAH": 3579032006,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Pendem",
+        "TGLSURVEI": "2023-11-28 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/615499_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/615499_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/615499_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.53045925,
+          -7.83803453
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 595995,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "PAUD",
+        "NAMSPE": "Paud Melati Putih 03",
+        "NAMMAP": "Paud Paud Melati Putih 03",
+        "NAMGAZ": "Paud Melati Putih 03, Paud",
+        "KOORDINAT1": "07°50'16.92\" S  112°31'49.65\" T",
+        "ELEVASI": 1031.68,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579022008,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Bulukerto",
+        "TGLSURVEI": "2023-09-29 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/595995_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.53177929,
+          -7.84275603
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 595997,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TK",
+        "NAMSPE": "Taman Kanak-kanak Bhina Putra 01",
+        "NAMMAP": "TK Taman Kanak-kanak Bhina Putra 01",
+        "NAMGAZ": "Taman Kanak-kanak Bhina Putra 01, TK",
+        "KOORDINAT1": "07°50'33.92\" S  112°31'54.40\" T",
+        "ELEVASI": 1009.22,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579022008,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Bulukerto",
+        "TGLSURVEI": "2023-09-29 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/595997_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.579487348,
+          -7.8920448851
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 615498,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "SPS",
+        "NAMSPE": "Mawar",
+        "NAMMAP": "SPS Mawar",
+        "NAMGAZ": "Mawar, SPS",
+        "KOORDINAT1": "07°53'31.36\" S  112°34'46.15\" T",
+        "ELEVASI": 700.0,
+        "AKURASI": 9.0,
+        "ID_WILAYAH": 3579032006,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Pendem",
+        "TGLSURVEI": "2023-11-28 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/615498_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/615498_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/615498_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5806815177,
+          -7.8928899905
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 614926,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Roudhatul Atfal",
+        "NAMSPE": "Iskandar Sulaiman",
+        "NAMMAP": "Roudhatul Atfal Iskandar Sulaiman",
+        "NAMGAZ": "Iskandar Sulaiman, Roudhatul Atfal",
+        "KOORDINAT1": "07°53'34.40\" S  112°34'50.45\" T",
+        "ELEVASI": 687.0,
+        "AKURASI": 8.5,
+        "ID_WILAYAH": 3579032006,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Pendem",
+        "TGLSURVEI": "2023-11-26 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/614926_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/614926_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/614926_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 616246,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "PAUD",
+        "NAMSPE": "PAUD Anggrek\nGen/Lok : PAUD\nSpesifik : Anggrek",
+        "NAMMAP": "PAUD PAUD Anggrek\nGen/Lok : PAUD\nSpesifik : Anggrek",
+        "NAMGAZ": "PAUD Anggrek\nGen/Lok : PAUD\nSpesifik : Anggrek, PAUD",
+        "KOORDINAT1": "00°00'00.00\" U  000°00'00.00\" T",
+        "ELEVASI": 0.0,
+        "AKURASI": 0.0,
+        "ID_WILAYAH": 3579032006,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Pendem",
+        "TGLSURVEI": "2023-11-19 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/616246_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5526507866,
+          -7.8629107481
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 587547,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TK",
+        "NAMSPE": "Margi Asih 02",
+        "NAMMAP": "TK Margi Asih 02",
+        "NAMGAZ": "Margi Asih 02, TK",
+        "KOORDINAT1": "07°51'46.47\" S  112°33'09.54\" T",
+        "ELEVASI": 830.5,
+        "AKURASI": 2.0,
+        "ID_WILAYAH": 3579022005,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Pandanrejo",
+        "TGLSURVEI": "2023-09-21 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/587547_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/587547_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/587547_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5403087784,
+          -7.864152011
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 587522,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "PAUD",
+        "NAMSPE": "Nusa Delima",
+        "NAMMAP": "PAUD Nusa Delima",
+        "NAMGAZ": "Nusa Delima, PAUD",
+        "KOORDINAT1": "07°51'50.94\" S  112°32'25.11\" T",
+        "ELEVASI": 876.1,
+        "AKURASI": 1.8,
+        "ID_WILAYAH": 3579022005,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Pandanrejo",
+        "TGLSURVEI": "2023-09-21 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/587522_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/587522_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/587522_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.53306692,
+          -7.84704077
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596003,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "PAUD",
+        "NAMSPE": "Sps Melati Putih 02",
+        "NAMMAP": "Paud Sps Melati Putih 02",
+        "NAMGAZ": "Sps Melati Putih 02, Paud",
+        "KOORDINAT1": "07°50'49.34\" S  112°31'59.04\" T",
+        "ELEVASI": 994.979,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579022008,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Bulukerto",
+        "TGLSURVEI": "2023-09-29 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596003_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5402908865,
+          -7.8645903579
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 587521,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TK",
+        "NAMSPE": "Margi Asih 01",
+        "NAMMAP": "TK Margi Asih 01",
+        "NAMGAZ": "Margi Asih 01, TK",
+        "KOORDINAT1": "07°51'52.52\" S  112°32'25.04\" T",
+        "ELEVASI": 871.2,
+        "AKURASI": 4.2,
+        "ID_WILAYAH": 3579022005,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Pandanrejo",
+        "TGLSURVEI": "2023-09-21 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/587521_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/587521_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/587521_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5271216667,
+          -7.9053283333
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 595474,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "SPS",
+        "NAMSPE": "Tunas Harapan",
+        "NAMMAP": "SPS Tunas Harapan",
+        "NAMGAZ": "Tunas Harapan, SPS",
+        "KOORDINAT1": "07°54'19.18\" S  112°31'37.63\" T",
+        "ELEVASI": 1031.8,
+        "AKURASI": 4.9,
+        "ID_WILAYAH": 3579012006,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Oro-oro Ombo",
+        "TGLSURVEI": "2023-10-07 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/595474_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/595474_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5279683333,
+          -7.8987
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 588618,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TK",
+        "NAMSPE": "PGRI 05 Batu",
+        "NAMMAP": "TK PGRI 05 Batu",
+        "NAMGAZ": "PGRI 05 Batu, TK",
+        "KOORDINAT1": "07°53'55.32\" S  112°31'40.68\" T",
+        "ELEVASI": 943.1,
+        "AKURASI": 10.2,
+        "ID_WILAYAH": 3579012006,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Oro-oro Ombo",
+        "TGLSURVEI": "2023-09-25 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/588618_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/588618_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/588618_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5429233333,
+          -7.8949416667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 590556,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "KBIT-TKIT",
+        "NAMSPE": "Rumah Pelangi",
+        "NAMMAP": "KBIT-TKIT Rumah Pelangi",
+        "NAMGAZ": "Rumah Pelangi, KBIT-TKIT",
+        "KOORDINAT1": "07°53'41.79\" S  112°32'34.52\" T",
+        "ELEVASI": 847.3,
+        "AKURASI": 1.4,
+        "ID_WILAYAH": 3579012006,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Oro-oro Ombo",
+        "TGLSURVEI": "2023-09-26 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/590556_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/590556_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5268966667,
+          -7.90556
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 588834,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TK",
+        "NAMSPE": "PKK Kartini",
+        "NAMMAP": "TK PKK Kartini",
+        "NAMGAZ": "PKK Kartini, TK",
+        "KOORDINAT1": "07°54'20.01\" S  112°31'36.82\" T",
+        "ELEVASI": 965.0,
+        "AKURASI": 11.1,
+        "ID_WILAYAH": 3579012006,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Oro-oro Ombo",
+        "TGLSURVEI": "2023-09-25 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/588834_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/588834_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5328283333,
+          -7.8932233333
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 588830,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Paud",
+        "NAMSPE": "Teratai",
+        "NAMMAP": "Paud Teratai",
+        "NAMGAZ": "Teratai, Paud",
+        "KOORDINAT1": "07°53'35.60\" S  112°31'58.18\" T",
+        "ELEVASI": 956.4,
+        "AKURASI": 3.9,
+        "ID_WILAYAH": 3579012006,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Oro-oro Ombo",
+        "TGLSURVEI": "2023-09-25 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/588830_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/588830_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.527965,
+          -7.8986
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 588617,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "RA",
+        "NAMSPE": "Ar Rohman",
+        "NAMMAP": "RA Ar Rohman",
+        "NAMGAZ": "Ar Rohman, RA",
+        "KOORDINAT1": "07°53'54.96\" S  112°31'40.67\" T",
+        "ELEVASI": 995.1,
+        "AKURASI": 14.2,
+        "ID_WILAYAH": 3579012006,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Oro-oro Ombo",
+        "TGLSURVEI": "2023-09-25 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/588617_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/588617_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.53056969,
+          -7.84770813
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 605307,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "SPS",
+        "NAMSPE": "SPS Melati Putih 01",
+        "NAMMAP": "SPS SPS Melati Putih 01",
+        "NAMGAZ": "SPS Melati Putih 01, SPS",
+        "KOORDINAT1": "07°50'51.74\" S  112°31'50.05\" T",
+        "ELEVASI": 984.41,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579022008,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Bulukerto",
+        "TGLSURVEI": "2023-11-03 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/605307_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5362616667,
+          -7.8937866667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 588614,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Kelompok Bermain",
+        "NAMSPE": "Ar Rohman",
+        "NAMMAP": "Kelompok Bermain  Ar Rohman",
+        "NAMGAZ": "Ar Rohman, Kelompok Bermain",
+        "KOORDINAT1": "07°53'37.63\" S  112°32'10.54\" T",
+        "ELEVASI": 906.7,
+        "AKURASI": 6.8,
+        "ID_WILAYAH": 3579012006,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Oro-oro Ombo",
+        "TGLSURVEI": "2023-09-25 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/588614_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/588614_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.56444653,
+          -7.9020079
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 622904,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TA",
+        "NAMSPE": "Al amin",
+        "NAMMAP": "TA Al amin",
+        "NAMGAZ": "Al amin , TA",
+        "KOORDINAT1": "07°54'07.22\" S  112°33'52.00\" T",
+        "ELEVASI": 698.764,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579,
+        "WADMKK": "Kota Batu",
+        "WADMKC": null,
+        "WADMKD": null,
+        "TGLSURVEI": "2023-12-18 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/622904_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.55851764,
+          -7.90030887
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 622899,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "PAUD",
+        "NAMSPE": "KASIH IBU 1",
+        "NAMMAP": "PAUD KASIH IBU 1",
+        "NAMGAZ": "KASIH IBU 1, PAUD",
+        "KOORDINAT1": "07°54'01.11\" S  112°33'30.66\" T",
+        "ELEVASI": 723.996,
+        "AKURASI": 5.2769,
+        "ID_WILAYAH": 3579,
+        "WADMKK": "Kota Batu",
+        "WADMKC": null,
+        "WADMKD": null,
+        "TGLSURVEI": "2023-12-18 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/622899_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.53656756,
+          -7.85514551
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 601158,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TK Aisyiyah Bustanul Aftal 02",
+        "NAMSPE": "TK Aisyiyah Bustanul Aftal 02",
+        "NAMMAP": "TK Aisyiyah Bustanul Aftal 02 TK Aisyiyah Bustanul Aftal 02",
+        "NAMGAZ": "TK Aisyiyah Bustanul Aftal 02, TK Aisyiyah Bustanul Aftal 02",
+        "KOORDINAT1": "07°51'18.52\" S  112°32'11.64\" T",
+        "ELEVASI": 940.307,
+        "AKURASI": 3.216,
+        "ID_WILAYAH": 3579022006,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Bumiaji",
+        "TGLSURVEI": "2023-10-15 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/601158_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.56912626,
+          -7.90521769
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 622886,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TK",
+        "NAMSPE": "KASIH IBU",
+        "NAMMAP": "TK KASIH IBU",
+        "NAMGAZ": "KASIH IBU , TK",
+        "KOORDINAT1": "07°54'18.78\" S  112°34'08.85\" T",
+        "ELEVASI": 674.739,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579,
+        "WADMKK": "Kota Batu",
+        "WADMKC": null,
+        "WADMKD": null,
+        "TGLSURVEI": "2023-12-18 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/622886_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.56921107,
+          -7.90551083
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 622885,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "PAUD",
+        "NAMSPE": "KASIH IBU 2",
+        "NAMMAP": "PAUD KASIH IBU 2",
+        "NAMGAZ": "KASIH IBU 2 , PAUD",
+        "KOORDINAT1": "07°54'19.83\" S  112°34'09.16\" T",
+        "ELEVASI": 677.923,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579,
+        "WADMKK": "Kota Batu",
+        "WADMKC": null,
+        "WADMKD": null,
+        "TGLSURVEI": "2023-12-18 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/622885_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5618966667,
+          -7.9097183333
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 604609,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TPQ",
+        "NAMSPE": "Al-Hikmah",
+        "NAMMAP": "TPQ Al-Hikmah",
+        "NAMGAZ": "Al-Hikmah, TPQ",
+        "KOORDINAT1": "07°54'34.98\" S  112°33'42.82\" T",
+        "ELEVASI": 1164.2,
+        "AKURASI": 6.5,
+        "ID_WILAYAH": 3579032003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Junrejo",
+        "TGLSURVEI": "2023-10-31 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/604609_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/604609_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5606316667,
+          -7.91157
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 604608,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TPQ",
+        "NAMSPE": "Istiqomah",
+        "NAMMAP": "TPQ Istiqomah",
+        "NAMGAZ": "Istiqomah, TPQ",
+        "KOORDINAT1": "07°54'41.65\" S  112°33'38.27\" T",
+        "ELEVASI": 444.6,
+        "AKURASI": 6.5,
+        "ID_WILAYAH": 3579032003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Junrejo",
+        "TGLSURVEI": "2023-10-31 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/604608_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/604608_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.557075,
+          -7.9090583333
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 604607,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TPQ",
+        "NAMSPE": "Al-Maun",
+        "NAMMAP": "TPQ Al-Maun",
+        "NAMGAZ": "Al-Maun, TPQ",
+        "KOORDINAT1": "07°54'32.61\" S  112°33'25.47\" T",
+        "ELEVASI": 738.7,
+        "AKURASI": 5.8,
+        "ID_WILAYAH": 3579032003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Junrejo",
+        "TGLSURVEI": "2023-10-31 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/604607_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/604607_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5516366667,
+          -7.90839
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 604606,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TPQ",
+        "NAMSPE": "Khodijah",
+        "NAMMAP": "TPQ Khodijah",
+        "NAMGAZ": "Khodijah, TPQ",
+        "KOORDINAT1": "07°54'30.20\" S  112°33'05.89\" T",
+        "ELEVASI": 729.3,
+        "AKURASI": 6.6,
+        "ID_WILAYAH": 3579032003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Junrejo",
+        "TGLSURVEI": "2023-10-31 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/604606_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/604606_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5526916667,
+          -7.90831
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 604605,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TK",
+        "NAMSPE": "PKK RA Kartini",
+        "NAMMAP": "TK PKK RA Kartini",
+        "NAMGAZ": "PKK RA Kartini, TK",
+        "KOORDINAT1": "07°54'29.91\" S  112°33'09.69\" T",
+        "ELEVASI": 764.2,
+        "AKURASI": 2.9,
+        "ID_WILAYAH": 3579032003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Junrejo",
+        "TGLSURVEI": "2023-10-31 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/604605_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/604605_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.556835,
+          -7.8995616667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 609036,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "RA",
+        "NAMSPE": "Dewi Sartika",
+        "NAMMAP": "RA Dewi Sartika",
+        "NAMGAZ": "Dewi Sartika, RA",
+        "KOORDINAT1": "07°53'58.42\" S  112°33'24.60\" T",
+        "ELEVASI": 758.7,
+        "AKURASI": 2.2,
+        "ID_WILAYAH": 3579032003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Junrejo",
+        "TGLSURVEI": "2023-11-11 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/609036_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/609036_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5595634796,
+          -7.9091223367
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 599930,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "TK",
+        "NAMSPE": "Islam Al-Asy'ari",
+        "NAMMAP": "TK Islam Al-Asy'ari",
+        "NAMGAZ": "Islam Al-Asy'ari, TK",
+        "KOORDINAT1": "07°54'32.84\" S  112°33'34.42\" T",
+        "ELEVASI": 724.551,
+        "AKURASI": 3.216,
+        "ID_WILAYAH": 3579032003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Junrejo",
+        "TGLSURVEI": "2023-10-18 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/599930_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.55225635,
+          -7.90160172
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 599925,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "PAUD",
+        "NAMSPE": "SPS Harapan Bunda 02",
+        "NAMMAP": "PAUD SPS Harapan Bunda 02",
+        "NAMGAZ": "SPS Harapan Bunda 02, PAUD",
+        "KOORDINAT1": "07°54'05.76\" S  112°33'08.12\" T",
+        "ELEVASI": 767.363,
+        "AKURASI": 9.648,
+        "ID_WILAYAH": 3579032003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Junrejo",
+        "TGLSURVEI": "2023-10-18 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/599925_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5524016667,
+          -7.9007416667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 597143,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "PAUD",
+        "NAMSPE": "Harapan Bunda 2",
+        "NAMMAP": "PAUD Harapan Bunda 2",
+        "NAMGAZ": "Harapan Bunda 2 , PAUD",
+        "KOORDINAT1": "07°54'02.67\" S  112°33'08.64\" T",
+        "ELEVASI": 752.2,
+        "AKURASI": 3.4,
+        "ID_WILAYAH": 3579032003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Junrejo",
+        "TGLSURVEI": "2023-10-13 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/597143_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/597143_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.559961279,
+          -7.9125060254
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596138,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Paud",
+        "NAMSPE": "Kuncup Harapan",
+        "NAMMAP": "Paud Kuncup Harapan",
+        "NAMGAZ": "Kuncup Harapan, Paud",
+        "KOORDINAT1": "07°54'45.02\" S  112°33'35.86\" T",
+        "ELEVASI": 723.9,
+        "AKURASI": 1.9,
+        "ID_WILAYAH": 3579032003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Junrejo",
+        "TGLSURVEI": "2023-10-11 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596138_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/596138_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5488731,
+          -7.90773344
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596095,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "PAUD",
+        "NAMSPE": "SPS Harapan Bunda 01",
+        "NAMMAP": "PAUD SPS Harapan Bunda 01",
+        "NAMGAZ": "SPS Harapan Bunda 01, PAUD",
+        "KOORDINAT1": "07°54'27.84\" S  112°32'55.94\" T",
+        "ELEVASI": 804.568,
+        "AKURASI": 3.216,
+        "ID_WILAYAH": 3579032003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Junrejo",
+        "TGLSURVEI": "2023-10-11 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596095_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5517289614,
+          -7.9076923764
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596091,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "PAUD",
+        "NAMSPE": "SPS Harapan Bunda 3",
+        "NAMMAP": "PAUD SPS Harapan Bunda 3",
+        "NAMGAZ": "SPS Harapan Bunda 3, PAUD",
+        "KOORDINAT1": "07°54'27.69\" S  112°33'06.22\" T",
+        "ELEVASI": 782.451,
+        "AKURASI": 3.216,
+        "ID_WILAYAH": 3579032003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Junrejo",
+        "TGLSURVEI": "2023-10-11 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596091_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.49740203,
+          -7.84702771
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 611498,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Taman Kanak-Kanak",
+        "NAMSPE": "Dahlia 03",
+        "NAMMAP": "Taman Kanak-Kanak Dahlia 03",
+        "NAMGAZ": "Dahlia 03, Taman Kanak-Kanak",
+        "KOORDINAT1": "07°50'49.30\" S  112°29'50.64\" T",
+        "ELEVASI": 1145.81,
+        "AKURASI": 10.6244,
+        "ID_WILAYAH": 3579022002,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Gunungsari",
+        "TGLSURVEI": "2023-11-18 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/611498_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/611498_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.50756727,
+          -7.84380964
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 611491,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "KB - RA",
+        "NAMSPE": "19 Muta'alimin",
+        "NAMMAP": "KB - RA 19 Muta'alimin",
+        "NAMGAZ": "19 Muta'alimin, KB - RA",
+        "KOORDINAT1": "07°50'37.71\" S  112°30'27.24\" T",
+        "ELEVASI": 1021.96,
+        "AKURASI": 4.98889,
+        "ID_WILAYAH": 3579022002,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Gunungsari",
+        "TGLSURVEI": "2023-11-18 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/611491_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/611491_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/611491_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.497403,
+          -7.84688844
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 611482,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Kelompok Bermain",
+        "NAMSPE": "Bougenvil",
+        "NAMMAP": "Kelompok Bermain Bougenvil",
+        "NAMGAZ": "Bougenvil, Kelompok Bermain",
+        "KOORDINAT1": "07°50'48.79\" S  112°29'50.65\" T",
+        "ELEVASI": 1147.0,
+        "AKURASI": 6.068,
+        "ID_WILAYAH": 3579022002,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Gunungsari",
+        "TGLSURVEI": "2023-11-18 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/611482_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/611482_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/611482_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.53847945,
+          -7.8586807
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 597606,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Taman Kanak Kanak Pembina (Kindergarten)",
+        "NAMSPE": "Taman Kanak Kanak Pembina (Kindergarten)",
+        "NAMMAP": "Taman Kanak Kanak Pembina (Kindergarten) Taman Kanak Kanak Pembina (Kindergarten)",
+        "NAMGAZ": "Taman Kanak Kanak Pembina (Kindergarten), Taman Kanak Kanak Pembina (Kindergarten)",
+        "KOORDINAT1": "07°51'31.25\" S  112°32'18.52\" T",
+        "ELEVASI": 908.846,
+        "AKURASI": 4.2304,
+        "ID_WILAYAH": 3579022006,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Bumiaji",
+        "TGLSURVEI": "2023-10-15 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/597606_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/597606_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.53885803,
+          -7.8584552
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 601149,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "SPS Mawar III",
+        "NAMSPE": "SPS Mawar III",
+        "NAMMAP": "SPS Mawar III SPS Mawar III",
+        "NAMGAZ": "SPS Mawar III, SPS Mawar III",
+        "KOORDINAT1": "07°51'30.43\" S  112°32'19.88\" T",
+        "ELEVASI": 913.223,
+        "AKURASI": 5.36,
+        "ID_WILAYAH": 3579022006,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Bumiaji",
+        "TGLSURVEI": "2023-10-15 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/601149_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.51383576,
+          -7.84364876
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 612959,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Taman Kanak-kanak",
+        "NAMSPE": "Muslimat Ar-Rohman",
+        "NAMMAP": "Taman Kanak-kanak Muslimat Ar-Rohman",
+        "NAMGAZ": "Muslimat Ar-Rohman, Taman Kanak-kanak",
+        "KOORDINAT1": "07°50'37.13\" S  112°30'49.80\" T",
+        "ELEVASI": 976.213,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579022002,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Gunungsari",
+        "TGLSURVEI": "2023-11-22 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/612959_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/612959_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/612959_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.51338906,
+          -7.84357221
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 612957,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Kelompok Bermain",
+        "NAMSPE": "Al-Mubaroq",
+        "NAMMAP": "Kelompok Bermain Al-Mubaroq",
+        "NAMGAZ": "Al-Mubaroq, Kelompok Bermain",
+        "KOORDINAT1": "07°50'36.86\" S  112°30'48.20\" T",
+        "ELEVASI": 986.439,
+        "AKURASI": 5.65547,
+        "ID_WILAYAH": 3579022002,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Gunungsari",
+        "TGLSURVEI": "2023-11-22 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/612957_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/612957_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.52275166,
+          -7.83760399
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 612954,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Kelompok Bermain",
+        "NAMSPE": "Anyelir",
+        "NAMMAP": "Kelompok Bermain Anyelir",
+        "NAMGAZ": "Anyelir, Kelompok Bermain",
+        "KOORDINAT1": "07°50'15.37\" S  112°31'21.90\" T",
+        "ELEVASI": 996.17,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579022002,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Gunungsari",
+        "TGLSURVEI": "2023-11-22 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/612954_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/612954_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5197133,
+          -7.83670563
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596658,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Taman kanak-kanak",
+        "NAMSPE": "Tk. Dahlia 02",
+        "NAMMAP": "Taman kanak-kanak Tk. Dahlia 02",
+        "NAMGAZ": "Tk. Dahlia 02, Taman kanak-kanak",
+        "KOORDINAT1": "07°50'12.14\" S  112°31'10.96\" T",
+        "ELEVASI": 973.089,
+        "AKURASI": 21.8621,
+        "ID_WILAYAH": 3579022002,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Gunungsari",
+        "TGLSURVEI": "2023-09-24 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596658_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/596658_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5139916,
+          -7.8405729
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596655,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Taman Kanak-Kanak",
+        "NAMSPE": "TK Dahlia 01 Gunungsari",
+        "NAMMAP": "Taman Kanak-Kanak TK Dahlia 01 Gunungsari",
+        "NAMGAZ": "TK Dahlia 01 Gunungsari, Taman Kanak-Kanak",
+        "KOORDINAT1": "07°50'26.06\" S  112°30'50.37\" T",
+        "ELEVASI": 971.142,
+        "AKURASI": 6.35707,
+        "ID_WILAYAH": 3579022002,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Gunungsari",
+        "TGLSURVEI": "2023-09-24 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596655_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/596655_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.53427308,
+          -7.8459693
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 601156,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Raudlatul Atfhal 03 \"Al-Khoiriyah\"",
+        "NAMSPE": "Raudlatul Afthal 03 \"Al-Khoiriyah\"",
+        "NAMMAP": "Raudlatul Atfhal 03 \"Al-Khoiriyah\" Raudlatul Afthal 03 \"Al-Khoiriyah\"",
+        "NAMGAZ": "Raudlatul Afthal 03 \"Al-Khoiriyah\", Raudlatul Atfhal 03 \"Al-Khoiriyah\"",
+        "KOORDINAT1": "07°50'45.48\" S  112°32'03.38\" T",
+        "ELEVASI": 1002.5,
+        "AKURASI": 4.288,
+        "ID_WILAYAH": 3579022006,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Bumiaji",
+        "TGLSURVEI": "2023-10-15 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/601156_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.51424233,
+          -7.84136048
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596654,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Pendidikan Anak Usia Dini",
+        "NAMSPE": "PAUD KB. Mawar",
+        "NAMMAP": "Pendidikan Anak Usia Dini PAUD KB. Mawar",
+        "NAMGAZ": "PAUD KB. Mawar, Pendidikan Anak Usia Dini",
+        "KOORDINAT1": "07°50'28.89\" S  112°30'51.27\" T",
+        "ELEVASI": 967.721,
+        "AKURASI": 6.07726,
+        "ID_WILAYAH": 3579022002,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Gunungsari",
+        "TGLSURVEI": "2023-09-24 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596654_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/596654_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5515716667,
+          -7.8593666667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 605520,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Ra",
+        "NAMSPE": "Siti Hajar",
+        "NAMMAP": "Ra Siti Hajar",
+        "NAMGAZ": "Siti Hajar, Ra",
+        "KOORDINAT1": "07°51'33.72\" S  112°33'05.65\" T",
+        "ELEVASI": 851.1,
+        "AKURASI": 6.7,
+        "ID_WILAYAH": 3579,
+        "WADMKK": "Kota Batu",
+        "WADMKC": null,
+        "WADMKD": null,
+        "TGLSURVEI": "2023-11-03 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/605520_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/605520_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5547041,
+          -7.86353007
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 601183,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Yayasan pendidikan",
+        "NAMSPE": "Thoriqul Huda",
+        "NAMMAP": "Yayasan pendidikan Thoriqul Huda",
+        "NAMGAZ": "Thoriqul Huda, Yayasan pendidikan",
+        "KOORDINAT1": "07°51'48.70\" S  112°33'16.93\" T",
+        "ELEVASI": 851.278,
+        "AKURASI": 10.2969,
+        "ID_WILAYAH": 3579022007,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Giripurno",
+        "TGLSURVEI": "2023-10-17 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/601183_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/601183_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.56330587,
+          -7.87120175
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 601170,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Yayasan pendidikan",
+        "NAMSPE": "Miftahul Huda",
+        "NAMMAP": "Yayasan pendidikan Miftahul Huda",
+        "NAMGAZ": "Miftahul Huda, Yayasan pendidikan",
+        "KOORDINAT1": "07°52'16.32\" S  112°33'47.90\" T",
+        "ELEVASI": 787.369,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579022007,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Giripurno",
+        "TGLSURVEI": "2023-10-17 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/601170_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/601170_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.55873461,
+          -7.86553946
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596703,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Taman Pendidikan",
+        "NAMSPE": "Al_ Qur'an Nurul Huda",
+        "NAMMAP": "Taman Pendidikan  Al_ Qur'an Nurul Huda",
+        "NAMGAZ": "Al_ Qur'an Nurul Huda, Taman Pendidikan",
+        "KOORDINAT1": "07°51'55.94\" S  112°33'31.44\" T",
+        "ELEVASI": 844.949,
+        "AKURASI": 9.93505,
+        "ID_WILAYAH": 3579022007,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Giripurno",
+        "TGLSURVEI": "2023-10-06 00:00:00",
+        "FOTO1": null,
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/IMG_20231006_110341.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5591614,
+          -7.86386955
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596710,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Taman Kanak-Kanak",
+        "NAMSPE": "Setia Mekar",
+        "NAMMAP": "Taman Kanak-Kanak Setia Mekar",
+        "NAMGAZ": "Setia Mekar, Taman Kanak-Kanak",
+        "KOORDINAT1": "07°51'49.93\" S  112°33'32.98\" T",
+        "ELEVASI": 846.236,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579022007,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Giripurno",
+        "TGLSURVEI": "2023-10-06 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596710_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/596710_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.55873249,
+          -7.86422107
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596708,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "S. Ps.",
+        "NAMSPE": "Putra Putri Pertiwi 1",
+        "NAMMAP": "S. Ps.  Putra Putri Pertiwi 1",
+        "NAMGAZ": "Putra Putri Pertiwi 1, S. Ps.",
+        "KOORDINAT1": "07°51'51.19\" S  112°33'31.43\" T",
+        "ELEVASI": 850.459,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579022007,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Giripurno",
+        "TGLSURVEI": "2023-10-06 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596708_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/596708_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.55873461,
+          -7.86553946
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596704,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Taman Pendidikan",
+        "NAMSPE": "Al_ Qur'an Nurul Huda",
+        "NAMMAP": "Taman Pendidikan  Al_ Qur'an Nurul Huda",
+        "NAMGAZ": "Al_ Qur'an Nurul Huda, Taman Pendidikan",
+        "KOORDINAT1": "07°51'55.94\" S  112°33'31.44\" T",
+        "ELEVASI": 844.949,
+        "AKURASI": 9.93505,
+        "ID_WILAYAH": 3579022007,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Giripurno",
+        "TGLSURVEI": "2023-10-06 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596704_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/596704_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5712120577,
+          -7.9075436402
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596648,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Kelompok Bermain",
+        "NAMSPE": "Harapan Bangsa",
+        "NAMMAP": "Kelompok Bermain Harapan Bangsa",
+        "NAMGAZ": "Harapan Bangsa, Kelompok Bermain",
+        "KOORDINAT1": "07°54'27.15\" S  112°34'16.36\" T",
+        "ELEVASI": 683.168,
+        "AKURASI": 9.24174,
+        "ID_WILAYAH": 3579,
+        "WADMKK": "Kota Batu",
+        "WADMKC": null,
+        "WADMKD": null,
+        "TGLSURVEI": "2023-10-11 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596648_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/596648_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5783775204,
+          -7.911789177
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 594299,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Pendidikan Anak Usia Dini",
+        "NAMSPE": "Negeri Pembina Kota Batu",
+        "NAMMAP": "Pendidikan Anak Usia Dini Negeri Pembina Kota Batu",
+        "NAMGAZ": "Negeri Pembina Kota Batu, Pendidikan Anak Usia Dini",
+        "KOORDINAT1": "07°54'42.44\" S  112°34'42.15\" T",
+        "ELEVASI": 644.005,
+        "AKURASI": 4.74234,
+        "ID_WILAYAH": 3579,
+        "WADMKK": "Kota Batu",
+        "WADMKC": null,
+        "WADMKD": null,
+        "TGLSURVEI": "2023-10-06 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/594299_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5790636523,
+          -7.9118954458
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 594298,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Anak Usia Dini",
+        "NAMLOK": "Kelompok Belajar",
+        "NAMSPE": "Bina Bangsa",
+        "NAMMAP": "Kelompok Belajar Bina Bangsa",
+        "NAMGAZ": "Bina Bangsa, Kelompok Belajar",
+        "KOORDINAT1": "07°54'42.82\" S  112°34'44.62\" T",
+        "ELEVASI": 638.337,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579,
+        "WADMKK": "Kota Batu",
+        "WADMKC": null,
+        "WADMKD": null,
+        "TGLSURVEI": "2023-10-06 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/594298_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    }
+  ]
+}

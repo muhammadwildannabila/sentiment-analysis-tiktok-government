@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.53779612,
+          -7.85383535
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 601157,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Khusus",
+        "NAMLOK": "SLB Negeri Kota Batu",
+        "NAMSPE": "SLB Negeri Kota Batu",
+        "NAMMAP": "SLB Negeri Kota Batu SLB Negeri Kota Batu",
+        "NAMGAZ": "SLB Negeri Kota Batu, SLB Negeri Kota Batu",
+        "KOORDINAT1": "07°51'13.80\" S  112°32'16.06\" T",
+        "ELEVASI": 946.888,
+        "AKURASI": 5.36,
+        "ID_WILAYAH": 3579022006,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Bumiaji",
+        "TGLSURVEI": "2023-10-15 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/601157_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.545024734,
+          -7.8997346945
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596035,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Khusus",
+        "NAMLOK": "SLB",
+        "NAMSPE": "Sentra Pengembangan CBR Bhakti Luhur Kota Batu",
+        "NAMMAP": "SLB Sentra Pengembangan CBR Bhakti Luhur Kota Batu",
+        "NAMGAZ": "Sentra Pengembangan CBR Bhakti Luhur Kota Batu, SLB",
+        "KOORDINAT1": "07°53'59.04\" S  112°32'42.08\" T",
+        "ELEVASI": 856.0,
+        "AKURASI": 8.5,
+        "ID_WILAYAH": 3579032002,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Beji",
+        "TGLSURVEI": "2023-10-03 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596035_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    }
+  ]
+}

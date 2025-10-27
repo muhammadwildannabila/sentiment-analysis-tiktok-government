@@ -1,0 +1,36 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.52708271,
+          -7.76094771
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 618755,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Perpustakaan",
+        "NAMLOK": "Perpustakaan",
+        "NAMSPE": "Pustaka Arjuna",
+        "NAMMAP": "Perpustakaan Pustaka Arjuna",
+        "NAMGAZ": "Pustaka Arjuna, Perpustakaan",
+        "KOORDINAT1": "07°45'39.41\" S  112°31'37.49\" T",
+        "ELEVASI": 1632.43,
+        "AKURASI": 11.4131,
+        "ID_WILAYAH": 3579022009,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Sumberbrantas",
+        "TGLSURVEI": "2023-10-20 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/618755_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/618755_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    }
+  ]
+}

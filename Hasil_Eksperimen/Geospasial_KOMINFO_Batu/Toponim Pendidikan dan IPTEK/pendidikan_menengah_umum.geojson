@@ -1,0 +1,749 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5297983333,
+          -7.8343933333
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 594405,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Menengah Umum",
+        "NAMLOK": "Sekolah Menengah Akhir",
+        "NAMSPE": "SMAN 3 Batu",
+        "NAMMAP": "Sekolah Menengah Akhir SMAN 3 Batu",
+        "NAMGAZ": "SMAN 3 Batu, Sekolah Menengah Akhir",
+        "KOORDINAT1": "07°50'03.81\" S  112°31'47.27\" T",
+        "ELEVASI": 1058.3,
+        "AKURASI": 3.4,
+        "ID_WILAYAH": 3579022004,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Sumbergondo",
+        "TGLSURVEI": "2023-10-04 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/594405_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/594405_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.50806,
+          -7.8582566667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 601381,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Menengah Umum",
+        "NAMLOK": "SMA Putri",
+        "NAMSPE": "Al - Izzah",
+        "NAMMAP": "SMA Putri Al - Izzah",
+        "NAMGAZ": "Al - Izzah , SMA Putri",
+        "KOORDINAT1": "07°51'29.72\" S  112°30'29.01\" T",
+        "ELEVASI": 959.3,
+        "AKURASI": 6.0,
+        "ID_WILAYAH": 3579012005,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Sumberejo",
+        "TGLSURVEI": "2023-10-23 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/601381_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/601381_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/601381_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.503235,
+          -7.858485
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 601379,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Menengah Umum",
+        "NAMLOK": "SMA Putra",
+        "NAMSPE": "Al - Izzah Leadership School",
+        "NAMMAP": "SMA Putra Al - Izzah Leadership School",
+        "NAMGAZ": "Al - Izzah Leadership School, SMA Putra",
+        "KOORDINAT1": "07°51'30.54\" S  112°30'11.64\" T",
+        "ELEVASI": 989.6,
+        "AKURASI": 3.4,
+        "ID_WILAYAH": 3579012005,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Sumberejo",
+        "TGLSURVEI": "2023-10-14 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/601379_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/601379_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/601379_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5189816667,
+          -7.8521266667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596120,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Menengah Umum",
+        "NAMLOK": "SMK Negeri",
+        "NAMSPE": "Batu 03",
+        "NAMMAP": "SMK Negeri Batu 03",
+        "NAMGAZ": "Batu 03 , SMK Negeri",
+        "KOORDINAT1": "07°51'07.65\" S  112°31'08.33\" T",
+        "ELEVASI": 911.0,
+        "AKURASI": 9.2,
+        "ID_WILAYAH": 3579012005,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Sumberejo",
+        "TGLSURVEI": "2023-10-03 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596120_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/596120_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/596120_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.53574,
+          -7.8790333333
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 612174,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Menengah Umum",
+        "NAMLOK": "SMA",
+        "NAMSPE": "Immanuel",
+        "NAMMAP": "SMA Immanuel",
+        "NAMGAZ": "Immanuel, SMA",
+        "KOORDINAT1": "07°52'44.52\" S  112°32'08.66\" T",
+        "ELEVASI": 874.1,
+        "AKURASI": 2.4,
+        "ID_WILAYAH": 3579011004,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Kelurahan Sisir",
+        "TGLSURVEI": "2023-10-15 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/612174_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/612174_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/612174_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.52881,
+          -7.8708316667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 612159,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Menengah Umum",
+        "NAMLOK": "SMK",
+        "NAMSPE": "Ma'aruf Kota Batu",
+        "NAMMAP": "SMK Ma'aruf Kota Batu",
+        "NAMGAZ": "Ma'aruf Kota Batu, SMK",
+        "KOORDINAT1": "07°52'14.99\" S  112°31'43.71\" T",
+        "ELEVASI": 885.8,
+        "AKURASI": 3.1,
+        "ID_WILAYAH": 3579011004,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Kelurahan Sisir",
+        "TGLSURVEI": "2023-10-15 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/612159_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/612159_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/612159_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.528155,
+          -7.87017
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 612157,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Menengah Umum",
+        "NAMLOK": "SMA",
+        "NAMSPE": "Islam Hasyim Asy'ari",
+        "NAMMAP": "SMA Islam Hasyim Asy'ari",
+        "NAMGAZ": "Islam Hasyim Asy'ari, SMA",
+        "KOORDINAT1": "07°52'12.61\" S  112°31'41.35\" T",
+        "ELEVASI": 893.4,
+        "AKURASI": 2.1,
+        "ID_WILAYAH": 3579011004,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Kelurahan Sisir",
+        "TGLSURVEI": "2023-10-15 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/612157_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/612157_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/612157_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5339783333,
+          -7.879565
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 612149,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Menengah Umum",
+        "NAMLOK": "SMA",
+        "NAMSPE": "Negeri 1 Batu",
+        "NAMMAP": "SMA Negeri 1 Batu",
+        "NAMGAZ": "Negeri 1 Batu, SMA",
+        "KOORDINAT1": "07°52'46.43\" S  112°32'02.32\" T",
+        "ELEVASI": 946.0,
+        "AKURASI": 7.9,
+        "ID_WILAYAH": 3579011004,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Kelurahan Sisir",
+        "TGLSURVEI": "2023-10-12 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/612149_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/612149_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/612149_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.52538,
+          -7.8771566667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 612148,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Menengah Umum",
+        "NAMLOK": "SMK",
+        "NAMSPE": "Islam",
+        "NAMMAP": "SMK Islam",
+        "NAMGAZ": "Islam, SMK",
+        "KOORDINAT1": "07°52'37.76\" S  112°31'31.36\" T",
+        "ELEVASI": 912.2,
+        "AKURASI": 2.7,
+        "ID_WILAYAH": 3579011004,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Kelurahan Sisir",
+        "TGLSURVEI": "2023-10-12 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/612148_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/612148_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/612148_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5295866667,
+          -7.8779016667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 612145,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Menengah Umum",
+        "NAMLOK": "SMA",
+        "NAMSPE": "PGRI BATU",
+        "NAMMAP": "SMA PGRI BATU",
+        "NAMGAZ": "PGRI BATU, SMA",
+        "KOORDINAT1": "07°52'40.44\" S  112°31'46.51\" T",
+        "ELEVASI": 919.3,
+        "AKURASI": 2.1,
+        "ID_WILAYAH": 3579011004,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Kelurahan Sisir",
+        "TGLSURVEI": "2023-10-12 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/612145_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/612145_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/612145_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5338766667,
+          -7.8719016667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 612141,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Menengah Umum",
+        "NAMLOK": "SMK",
+        "NAMSPE": "Muhammadiyah 1 Batu",
+        "NAMMAP": "SMK Muhammadiyah 1 Batu",
+        "NAMGAZ": "Muhammadiyah 1 Batu, SMK",
+        "KOORDINAT1": "07°52'18.84\" S  112°32'01.95\" T",
+        "ELEVASI": 879.2,
+        "AKURASI": 2.0,
+        "ID_WILAYAH": 3579011004,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Kelurahan Sisir",
+        "TGLSURVEI": "2023-10-12 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/612141_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/612141_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/612141_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5272533333,
+          -7.8676266667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 612137,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Menengah Umum",
+        "NAMLOK": "SMK",
+        "NAMSPE": "Negeri 1 Batu",
+        "NAMMAP": "SMK Negeri 1 Batu",
+        "NAMGAZ": "Negeri 1 Batu, SMK",
+        "KOORDINAT1": "07°52'03.45\" S  112°31'38.11\" T",
+        "ELEVASI": 906.3,
+        "AKURASI": 1.9,
+        "ID_WILAYAH": 3579011004,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Kelurahan Sisir",
+        "TGLSURVEI": "2023-10-12 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/612137_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/612137_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/612137_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5281878375,
+          -7.8481349023
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596891,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Menengah Umum",
+        "NAMLOK": "SMP",
+        "NAMSPE": "Muhammadiyah 2",
+        "NAMMAP": "SMP Muhammadiyah 2",
+        "NAMGAZ": "Muhammadiyah 2, SMP",
+        "KOORDINAT1": "07°50'53.28\" S  112°31'41.47\" T",
+        "ELEVASI": 946.0,
+        "AKURASI": 7.5,
+        "ID_WILAYAH": 3579012007,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Sidomulyo",
+        "TGLSURVEI": "2023-10-13 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596891_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/596891_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/596891_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5254907087,
+          -7.8514633561
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596885,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Menengah Umum",
+        "NAMLOK": "SMA",
+        "NAMSPE": "MUHAMMADIYAH 3 BATU",
+        "NAMMAP": "SMA MUHAMMADIYAH 3 BATU",
+        "NAMGAZ": "MUHAMMADIYAH 3 BATU, SMA",
+        "KOORDINAT1": "07°51'05.26\" S  112°31'31.76\" T",
+        "ELEVASI": 947.0,
+        "AKURASI": 10.5,
+        "ID_WILAYAH": 3579012007,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Sidomulyo",
+        "TGLSURVEI": "2023-10-13 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596885_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/596885_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/596885_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5157716667,
+          -7.86873
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 611564,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Menengah Umum",
+        "NAMLOK": "Sekolah Menengah Kejuruan",
+        "NAMSPE": "Putikecwara",
+        "NAMMAP": "Sekolah Menengah Kejuruan Putikecwara",
+        "NAMGAZ": "Putikecwara, Sekolah Menengah Kejuruan",
+        "KOORDINAT1": "07°52'07.42\" S  112°30'56.77\" T",
+        "ELEVASI": 949.6,
+        "AKURASI": 2.1,
+        "ID_WILAYAH": 3579012008,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Pesanggrahan",
+        "TGLSURVEI": "2023-10-25 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/611564_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/611564_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5402190283,
+          -7.8638715187
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 587523,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Menengah Umum",
+        "NAMLOK": "SMK Negeri",
+        "NAMSPE": "2 Batu",
+        "NAMMAP": "SMK Negeri 2 Batu",
+        "NAMGAZ": "2 Batu, SMK Negeri",
+        "KOORDINAT1": "07°51'49.93\" S  112°32'24.78\" T",
+        "ELEVASI": 873.0,
+        "AKURASI": 1.5,
+        "ID_WILAYAH": 3579022005,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Pandanrejo",
+        "TGLSURVEI": "2023-09-21 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/587523_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/587523_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/587523_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5361666667,
+          -7.89542
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 588831,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Menengah Umum",
+        "NAMLOK": "SMK",
+        "NAMSPE": "Ma'arif Batu",
+        "NAMMAP": "SMK Ma'arif Batu",
+        "NAMGAZ": "Ma'arif Batu, SMK",
+        "KOORDINAT1": "07°53'43.51\" S  112°32'10.20\" T",
+        "ELEVASI": 913.0,
+        "AKURASI": 5.1,
+        "ID_WILAYAH": 3579012006,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Oro-oro Ombo",
+        "TGLSURVEI": "2023-09-25 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/588831_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/588831_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.56092801,
+          -7.89881133
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 622922,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Menengah Umum",
+        "NAMLOK": "SMA",
+        "NAMSPE": "al- Irsyad",
+        "NAMMAP": "SMA al- Irsyad",
+        "NAMGAZ": "al- Irsyad , SMA",
+        "KOORDINAT1": "07°53'55.72\" S  112°33'39.34\" T",
+        "ELEVASI": 725.612,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579,
+        "WADMKK": "Kota Batu",
+        "WADMKC": null,
+        "WADMKD": null,
+        "TGLSURVEI": "2023-12-18 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/622922_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.55949071,
+          -7.90348507
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 622896,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Menengah Umum",
+        "NAMLOK": "SMK kesehatan",
+        "NAMSPE": "Amanah Husada",
+        "NAMMAP": "SMK kesehatan  Amanah Husada",
+        "NAMGAZ": "Amanah Husada , SMK kesehatan",
+        "KOORDINAT1": "07°54'12.54\" S  112°33'34.16\" T",
+        "ELEVASI": 734.934,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579,
+        "WADMKK": "Kota Batu",
+        "WADMKC": null,
+        "WADMKD": null,
+        "TGLSURVEI": "2023-12-18 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/622896_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5592785363,
+          -7.9029821095
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 616491,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Menengah Umum",
+        "NAMLOK": "SMK",
+        "NAMSPE": "Kesehatan Amanah Husada",
+        "NAMMAP": "SMK Kesehatan Amanah Husada",
+        "NAMGAZ": "Kesehatan Amanah Husada, SMK",
+        "KOORDINAT1": "07°54'10.73\" S  112°33'33.40\" T",
+        "ELEVASI": 735.98,
+        "AKURASI": 16.08,
+        "ID_WILAYAH": 3579032003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Junrejo",
+        "TGLSURVEI": "2023-11-30 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/616491_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/616491_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5539511773,
+          -7.906135649
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596108,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Menengah Umum",
+        "NAMLOK": "SMA Negeri",
+        "NAMSPE": "2 Batu",
+        "NAMMAP": "SMA Negeri 2 Batu",
+        "NAMGAZ": "2 Batu, SMA Negeri",
+        "KOORDINAT1": "07°54'22.08\" S  112°33'14.22\" T",
+        "ELEVASI": 772.951,
+        "AKURASI": 4.288,
+        "ID_WILAYAH": 3579032003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Junrejo",
+        "TGLSURVEI": "2023-10-11 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596108_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5583930703,
+          -7.9103773758
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596075,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Menengah Umum",
+        "NAMLOK": "SMK",
+        "NAMSPE": "Bhinneka Tunggal Ika Indonesia",
+        "NAMMAP": "SMK Bhinneka Tunggal Ika Indonesia",
+        "NAMGAZ": "Bhinneka Tunggal Ika Indonesia, SMK",
+        "KOORDINAT1": "07°54'37.35\" S  112°33'30.21\" T",
+        "ELEVASI": 771.834,
+        "AKURASI": 10.72,
+        "ID_WILAYAH": 3579032003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Junrejo",
+        "TGLSURVEI": "2023-10-11 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596075_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.55986022,
+          -7.85396419
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596721,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Menengah Umum",
+        "NAMLOK": "Sekolah Menengah Atas",
+        "NAMSPE": "Al_Hikmah Boarding School Batu",
+        "NAMMAP": "Sekolah Menengah Atas Al_Hikmah Boarding School Batu",
+        "NAMGAZ": "Al_Hikmah Boarding School Batu, Sekolah Menengah Atas",
+        "KOORDINAT1": "07°51'14.27\" S  112°33'35.49\" T",
+        "ELEVASI": 904.561,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579022007,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Giripurno",
+        "TGLSURVEI": "2023-10-06 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596721_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/596721_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5439935084,
+          -7.8876230959
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596068,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Menengah Umum",
+        "NAMLOK": "SMK",
+        "NAMSPE": "17 Agustus Batu",
+        "NAMMAP": "SMK 17 Agustus Batu",
+        "NAMGAZ": "17 Agustus Batu, SMK",
+        "KOORDINAT1": "07°53'15.44\" S  112°32'38.37\" T",
+        "ELEVASI": 857.0,
+        "AKURASI": 8.5,
+        "ID_WILAYAH": 3579032002,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Beji",
+        "TGLSURVEI": "2023-10-10 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596068_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    }
+  ]
+}

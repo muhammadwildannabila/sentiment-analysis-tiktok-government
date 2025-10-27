@@ -1,0 +1,129 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.599235,
+          -7.9212883333
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 547476,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Tinggi",
+        "NAMLOK": "Universitas",
+        "NAMSPE": "Muhammadiyah Malang",
+        "NAMMAP": "Universitas Muhammadiyah Malang",
+        "NAMGAZ": "Muhammadiyah Malang, Universitas",
+        "KOORDINAT1": "07°55'16.63\" S  112°35'57.24\" T",
+        "ELEVASI": 564.3,
+        "AKURASI": 6.2,
+        "ID_WILAYAH": 3579,
+        "WADMKK": "Kota Batu",
+        "WADMKC": null,
+        "WADMKD": null,
+        "TGLSURVEI": "2023-08-28 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/547476_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.56180425,
+          -7.9025537
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 622924,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Tinggi",
+        "NAMLOK": "STAB",
+        "NAMSPE": "KERTASRAJASA",
+        "NAMMAP": "STAB  KERTASRAJASA",
+        "NAMGAZ": "KERTASRAJASA , STAB",
+        "KOORDINAT1": "07°54'09.19\" S  112°33'42.49\" T",
+        "ELEVASI": 720.363,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579,
+        "WADMKK": "Kota Batu",
+        "WADMKC": null,
+        "WADMKD": null,
+        "TGLSURVEI": "2023-12-18 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/622924_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.54727,
+          -7.9220466667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 604610,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Tinggi",
+        "NAMLOK": "UIN",
+        "NAMSPE": "Maulana Malik Ibrahim",
+        "NAMMAP": "UIN Maulana Malik Ibrahim",
+        "NAMGAZ": "Maulana Malik Ibrahim, UIN",
+        "KOORDINAT1": "07°55'19.36\" S  112°32'50.17\" T",
+        "ELEVASI": 846.3,
+        "AKURASI": 4.4,
+        "ID_WILAYAH": 3579032003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Junrejo",
+        "TGLSURVEI": "2023-10-31 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/604610_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/604610_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5781701587,
+          -7.9063172404
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 594303,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Tinggi",
+        "NAMLOK": "Pascasarjana",
+        "NAMSPE": "UIN Maulana Malik Ibrahim",
+        "NAMMAP": "Pascasarjana UIN Maulana Malik Ibrahim",
+        "NAMGAZ": "UIN Maulana Malik Ibrahim, Pascasarjana",
+        "KOORDINAT1": "07°54'22.74\" S  112°34'41.41\" T",
+        "ELEVASI": 632.21,
+        "AKURASI": 4.12184,
+        "ID_WILAYAH": 3579,
+        "WADMKK": "Kota Batu",
+        "WADMKC": null,
+        "WADMKD": null,
+        "TGLSURVEI": "2023-10-05 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/594303_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    }
+  ]
+}

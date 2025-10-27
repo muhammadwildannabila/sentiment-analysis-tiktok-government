@@ -1,0 +1,36 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5062451046,
+          -7.8640787071
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 604602,
+        "KLSTPN": "Toponim Perekonomian dan Perdagangan",
+        "FTYPE": "Pusat Bisnis dan Perdagangan Lainnya",
+        "NAMLOK": "R. ROVIT",
+        "NAMSPE": "Herbal",
+        "NAMMAP": "R. ROVIT Herbal",
+        "NAMGAZ": "Herbal , R. ROVIT",
+        "KOORDINAT1": "07°51'50.68\" S  112°30'22.48\" T",
+        "ELEVASI": 976,
+        "AKURASI": 7.5,
+        "ID_WILAYAH": 3579011003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Kelurahan Songgokerto",
+        "TGLSURVEI": "2023-11-01 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/604602_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/604602_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    }
+  ]
+}

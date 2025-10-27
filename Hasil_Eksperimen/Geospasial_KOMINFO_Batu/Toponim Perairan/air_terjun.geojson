@@ -1,0 +1,36 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5513772332,
+          -7.8704582239
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 594842,
+        "KLSTPN": "Toponim Perairan",
+        "FTYPE": "Air Terjun",
+        "NAMLOK": "Air Terjun",
+        "NAMSPE": "Coban Lanang",
+        "NAMMAP": "Air Terjun Coban Lanang",
+        "NAMGAZ": "Coban Lanang, Air Terjun",
+        "KOORDINAT1": "07°52'13.65\" S  112°33'04.95\" T",
+        "ELEVASI": 804.899,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579022005,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Pandanrejo",
+        "TGLSURVEI": "2023-10-09 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/594842_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/594842_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/594842_3.jpg",
+        "FOTO4": null
+      }
+    }
+  ]
+}

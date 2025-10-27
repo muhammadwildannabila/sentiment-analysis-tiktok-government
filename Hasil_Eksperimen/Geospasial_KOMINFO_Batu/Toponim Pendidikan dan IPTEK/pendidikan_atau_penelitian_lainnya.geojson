@@ -1,0 +1,935 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.52201319,
+          -7.8199242
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 595511,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan/Penelitian Lainnya",
+        "NAMLOK": "TK",
+        "NAMSPE": "Mardi Putra 02",
+        "NAMMAP": "TK Mardi Putra 02",
+        "NAMGAZ": "Mardi Putra 02, TK",
+        "KOORDINAT1": "07°49'11.72\" S  112°31'19.24\" T",
+        "ELEVASI": 1099.32,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579022003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Tulungrejo",
+        "TGLSURVEI": "2023-10-02 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/595511_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.53222327,
+          -7.82267808
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 595505,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan/Penelitian Lainnya",
+        "NAMLOK": "Pondok",
+        "NAMSPE": "Yatim Piatu dan Dhu'afak Al-Munawaroh",
+        "NAMMAP": "Pondok Yatim Piatu dan Dhu'afak Al-Munawaroh",
+        "NAMGAZ": "Yatim Piatu dan Dhu'afak Al-Munawaroh, Pondok",
+        "KOORDINAT1": "07°49'21.64\" S  112°31'56.00\" T",
+        "ELEVASI": 1147.11,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579022003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Tulungrejo",
+        "TGLSURVEI": "2023-10-02 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/595505_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.53085616,
+          -7.82255145
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 595503,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan/Penelitian Lainnya",
+        "NAMLOK": "TPQ",
+        "NAMSPE": "Ikhlasul Muttaqien",
+        "NAMMAP": "TPQ Ikhlasul Muttaqien",
+        "NAMGAZ": "Ikhlasul Muttaqien, TPQ",
+        "KOORDINAT1": "07°49'21.18\" S  112°31'51.08\" T",
+        "ELEVASI": 1157.97,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579022003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Tulungrejo",
+        "TGLSURVEI": "2023-10-02 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/595503_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/595503_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.53087608,
+          -7.82207415
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 595502,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan/Penelitian Lainnya",
+        "NAMLOK": "TK",
+        "NAMSPE": "Mardiputra 01",
+        "NAMMAP": "TK Mardiputra 01",
+        "NAMGAZ": "Mardiputra 01, TK",
+        "KOORDINAT1": "07°49'19.46\" S  112°31'51.15\" T",
+        "ELEVASI": 1154.46,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579022003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Tulungrejo",
+        "TGLSURVEI": "2023-10-02 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/595502_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5308405,
+          -7.82190182
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 595501,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan/Penelitian Lainnya",
+        "NAMLOK": "Kelompok Bermain",
+        "NAMSPE": "Griya Ananda",
+        "NAMMAP": "Kelompok Bermain Griya Ananda",
+        "NAMGAZ": "Griya Ananda, Kelompok Bermain",
+        "KOORDINAT1": "07°49'18.84\" S  112°31'51.02\" T",
+        "ELEVASI": 1157.13,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579022003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Tulungrejo",
+        "TGLSURVEI": "2023-10-02 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/595501_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.52804001,
+          -7.80440781
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 595494,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan/Penelitian Lainnya",
+        "NAMLOK": "TPQ",
+        "NAMSPE": "Nur-Rohmah",
+        "NAMMAP": "TPQ Nur-Rohmah",
+        "NAMGAZ": "Nur-Rohmah, TPQ",
+        "KOORDINAT1": "07°48'15.86\" S  112°31'40.94\" T",
+        "ELEVASI": 1329.55,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579022003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Tulungrejo",
+        "TGLSURVEI": "2023-10-02 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/595494_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/595494_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.52180144,
+          -7.80276545
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 595491,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan/Penelitian Lainnya",
+        "NAMLOK": "TPQ",
+        "NAMSPE": "Nurrohman",
+        "NAMMAP": "TPQ Nurrohman",
+        "NAMGAZ": "Nurrohman, TPQ",
+        "KOORDINAT1": "07°48'09.95\" S  112°31'18.48\" T",
+        "ELEVASI": 1330.14,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579022003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Tulungrejo",
+        "TGLSURVEI": "2023-10-02 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/595491_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/595491_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.52603733,
+          -7.80396091
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 595488,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan/Penelitian Lainnya",
+        "NAMLOK": "SPS",
+        "NAMSPE": "Anggrek",
+        "NAMMAP": "SPS Anggrek",
+        "NAMGAZ": "Anggrek, SPS",
+        "KOORDINAT1": "07°48'14.25\" S  112°31'33.73\" T",
+        "ELEVASI": 1325.5,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579022003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Tulungrejo",
+        "TGLSURVEI": "2023-10-02 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/595488_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/595488_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.52646246,
+          -7.80007049
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 595483,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan/Penelitian Lainnya",
+        "NAMLOK": "TK",
+        "NAMSPE": "Arjuno 01",
+        "NAMMAP": "TK Arjuno 01",
+        "NAMGAZ": "Arjuno 01, TK",
+        "KOORDINAT1": "07°48'00.25\" S  112°31'35.26\" T",
+        "ELEVASI": 1363.67,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579022003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Tulungrejo",
+        "TGLSURVEI": "2023-10-02 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/595483_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/595483_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5228890569,
+          -7.7977752954
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 595477,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan/Penelitian Lainnya",
+        "NAMLOK": "TK",
+        "NAMSPE": "Angkasa 04",
+        "NAMMAP": "TK  Angkasa 04",
+        "NAMGAZ": "Angkasa 04, TK",
+        "KOORDINAT1": "07°47'51.99\" S  112°31'22.40\" T",
+        "ELEVASI": 1360.71,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579022003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Tulungrejo",
+        "TGLSURVEI": "2023-10-02 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/595477_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.52073529,
+          -7.80255984
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596264,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan/Penelitian Lainnya",
+        "NAMLOK": "TK",
+        "NAMSPE": "Arjuno 02",
+        "NAMMAP": "TK Arjuno 02",
+        "NAMGAZ": "Arjuno 02, TK",
+        "KOORDINAT1": "07°48'09.21\" S  112°31'14.64\" T",
+        "ELEVASI": 1336.6,
+        "AKURASI": 4.81837,
+        "ID_WILAYAH": 3579022003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Tulungrejo",
+        "TGLSURVEI": "2023-10-11 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596264_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.52933622,
+          -7.81808946
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596252,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan/Penelitian Lainnya",
+        "NAMLOK": "TPQ",
+        "NAMSPE": "Al-Azhar",
+        "NAMMAP": "TPQ Al-Azhar",
+        "NAMGAZ": "Al-Azhar, TPQ",
+        "KOORDINAT1": "07°49'05.12\" S  112°31'45.61\" T",
+        "ELEVASI": 1196.86,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579022003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Tulungrejo",
+        "TGLSURVEI": "2023-10-11 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596252_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.53019738,
+          -7.81544669
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596248,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan/Penelitian Lainnya",
+        "NAMLOK": "TPQ",
+        "NAMSPE": "Miftahul Ulum",
+        "NAMMAP": "TPQ Miftahul Ulum",
+        "NAMGAZ": "Miftahul Ulum, TPQ",
+        "KOORDINAT1": "07°48'55.60\" S  112°31'48.71\" T",
+        "ELEVASI": 1233.11,
+        "AKURASI": 5.90826,
+        "ID_WILAYAH": 3579022003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Tulungrejo",
+        "TGLSURVEI": "2023-10-11 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596248_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.52212645,
+          -7.82096789
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596244,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan/Penelitian Lainnya",
+        "NAMLOK": "SPS",
+        "NAMSPE": "Kasih Ibu",
+        "NAMMAP": "SPS Kasih Ibu",
+        "NAMGAZ": "Kasih Ibu, SPS",
+        "KOORDINAT1": "07°49'15.48\" S  112°31'19.65\" T",
+        "ELEVASI": 1099.53,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579022003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Tulungrejo",
+        "TGLSURVEI": "2023-10-11 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596244_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/596244_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5271288678,
+          -7.8474160703
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596896,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan/Penelitian Lainnya",
+        "NAMLOK": "TK",
+        "NAMSPE": "Mawar Indah 02",
+        "NAMMAP": "TK Mawar Indah 02",
+        "NAMGAZ": "Mawar Indah 02, TK",
+        "KOORDINAT1": "07°50'50.69\" S  112°31'37.66\" T",
+        "ELEVASI": 954.0,
+        "AKURASI": 18.5,
+        "ID_WILAYAH": 3579012007,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Sidomulyo",
+        "TGLSURVEI": "2023-10-13 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596896_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/596896_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/596896_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5246987864,
+          -7.8418012429
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596893,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan/Penelitian Lainnya",
+        "NAMLOK": "MA",
+        "NAMSPE": "Manba'ul Ulum",
+        "NAMMAP": "MA Manba'ul Ulum",
+        "NAMGAZ": "Manba'ul Ulum, MA",
+        "KOORDINAT1": "07°50'30.48\" S  112°31'28.91\" T",
+        "ELEVASI": 973.0,
+        "AKURASI": 5.0,
+        "ID_WILAYAH": 3579012007,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Sidomulyo",
+        "TGLSURVEI": "2023-10-13 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596893_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/596893_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/596893_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5285101216,
+          -7.8554746415
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 596889,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan/Penelitian Lainnya",
+        "NAMLOK": "TK",
+        "NAMSPE": "Yaa Bunayya",
+        "NAMMAP": "TK Yaa Bunayya",
+        "NAMGAZ": "Yaa Bunayya, TK",
+        "KOORDINAT1": "07°51'19.70\" S  112°31'42.63\" T",
+        "ELEVASI": 943.0,
+        "AKURASI": 9.0,
+        "ID_WILAYAH": 3579012007,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Sidomulyo",
+        "TGLSURVEI": "2023-10-13 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/596889_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/596889_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/596889_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.57924,
+          -7.9211266667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 616728,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan/Penelitian Lainnya",
+        "NAMLOK": "Taman Pendidikan Al-Quran",
+        "NAMSPE": "TPQ Miftakhul Huda",
+        "NAMMAP": "Taman Pendidikan Al-Quran TPQ Miftakhul Huda",
+        "NAMGAZ": "TPQ Miftakhul Huda, Taman Pendidikan Al-Quran",
+        "KOORDINAT1": "07°55'16.05\" S  112°34'45.26\" T",
+        "ELEVASI": 0.0,
+        "AKURASI": 0.0,
+        "ID_WILAYAH": 3579032006,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Pendem",
+        "TGLSURVEI": "2023-11-30 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/616728_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.57924,
+          -7.9211266667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 616726,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan/Penelitian Lainnya",
+        "NAMLOK": "Yayasan Pendidikan Muslimat NU Nabawi",
+        "NAMSPE": "RA Wachid Hasyim",
+        "NAMMAP": "Yayasan Pendidikan Muslimat NU Nabawi RA Wachid Hasyim",
+        "NAMGAZ": "RA Wachid Hasyim , Yayasan Pendidikan Muslimat NU Nabawi",
+        "KOORDINAT1": "07°55'16.05\" S  112°34'45.26\" T",
+        "ELEVASI": 0.0,
+        "AKURASI": 0.0,
+        "ID_WILAYAH": 3579032006,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Pendem",
+        "TGLSURVEI": "2023-11-30 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/616726_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/616726_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.57924,
+          -7.9211266667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 616718,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan/Penelitian Lainnya",
+        "NAMLOK": "Taman Pendidikan Al-Quran",
+        "NAMSPE": "Al Athfal Tahfidzul Qur'an",
+        "NAMMAP": "Taman Pendidikan Al-Quran Al Athfal Tahfidzul Qur'an",
+        "NAMGAZ": "Al Athfal Tahfidzul Qur'an, Taman Pendidikan Al-Quran",
+        "KOORDINAT1": "07°55'16.05\" S  112°34'45.26\" T",
+        "ELEVASI": 0.0,
+        "AKURASI": 0.0,
+        "ID_WILAYAH": 3579032006,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Pendem",
+        "TGLSURVEI": "2023-11-30 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/616718_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.57924,
+          -7.9211266667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 616716,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan/Penelitian Lainnya",
+        "NAMLOK": "Taman Pendidikan Al-Quran",
+        "NAMSPE": "Mazro'atul 'Ulum",
+        "NAMMAP": "Taman Pendidikan Al-Quran Mazro'atul 'Ulum",
+        "NAMGAZ": "Mazro'atul 'Ulum, Taman Pendidikan Al-Quran",
+        "KOORDINAT1": "07°55'16.05\" S  112°34'45.26\" T",
+        "ELEVASI": 0.0,
+        "AKURASI": 0.0,
+        "ID_WILAYAH": 3579032006,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Pendem",
+        "TGLSURVEI": "2023-11-30 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/616716_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/616716_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.57924,
+          -7.9211266667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 616711,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan/Penelitian Lainnya",
+        "NAMLOK": "Taman Pendidikan Al-Quran",
+        "NAMSPE": "Al Ikhlas I",
+        "NAMMAP": "Taman Pendidikan Al-Quran Al Ikhlas I",
+        "NAMGAZ": "Al Ikhlas I, Taman Pendidikan Al-Quran",
+        "KOORDINAT1": "07°55'16.05\" S  112°34'45.26\" T",
+        "ELEVASI": 0.0,
+        "AKURASI": 0.0,
+        "ID_WILAYAH": 3579032006,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Pendem",
+        "TGLSURVEI": "2023-11-30 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/616711_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/616711_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.57924,
+          -7.9211266667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 616706,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan/Penelitian Lainnya",
+        "NAMLOK": "Yayasan Pendidikan Islam",
+        "NAMSPE": "Hidayatul Rohman",
+        "NAMMAP": "Yayasan Pendidikan Islam Hidayatul Rohman",
+        "NAMGAZ": "Hidayatul Rohman , Yayasan Pendidikan Islam",
+        "KOORDINAT1": "07°55'16.05\" S  112°34'45.26\" T",
+        "ELEVASI": 0.0,
+        "AKURASI": 0.0,
+        "ID_WILAYAH": 3579032006,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Pendem",
+        "TGLSURVEI": "2023-11-30 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/616706_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/616706_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5795283333,
+          -7.92122
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 616280,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan/Penelitian Lainnya",
+        "NAMLOK": "Taman Pendidikan Al Quran",
+        "NAMSPE": "TPQ Miftakhul Huda",
+        "NAMMAP": "Taman Pendidikan Al Quran TPQ Miftakhul Huda",
+        "NAMGAZ": "TPQ Miftakhul Huda, Taman Pendidikan Al Quran",
+        "KOORDINAT1": "07°55'16.39\" S  112°34'46.30\" T",
+        "ELEVASI": 603.7,
+        "AKURASI": 6.3,
+        "ID_WILAYAH": 3579032006,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Pendem",
+        "TGLSURVEI": "2023-11-29 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/616280_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/616280_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5797033333,
+          -7.92135
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 616278,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan/Penelitian Lainnya",
+        "NAMLOK": "Yayasan Pendidikan Muslimat Nu Nabawi",
+        "NAMSPE": "RA Wachid Hasyim",
+        "NAMMAP": "Yayasan Pendidikan Muslimat Nu Nabawi RA Wachid Hasyim",
+        "NAMGAZ": "RA Wachid Hasyim, Yayasan Pendidikan Muslimat Nu Nabawi",
+        "KOORDINAT1": "07°55'16.86\" S  112°34'46.93\" T",
+        "ELEVASI": 600.6,
+        "AKURASI": 6.7,
+        "ID_WILAYAH": 3579032006,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Pendem",
+        "TGLSURVEI": "2023-11-29 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/616278_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/616278_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/616278_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5797733333,
+          -7.9212666667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 616253,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan/Penelitian Lainnya",
+        "NAMLOK": "Taman Pendidikan Al Quran",
+        "NAMSPE": "Hidayatur Rohmah",
+        "NAMMAP": "Taman Pendidikan Al Quran Hidayatur Rohmah",
+        "NAMGAZ": "Hidayatur Rohmah, Taman Pendidikan Al Quran",
+        "KOORDINAT1": "07°55'16.56\" S  112°34'47.18\" T",
+        "ELEVASI": 586.8,
+        "AKURASI": 7.2,
+        "ID_WILAYAH": 3579032006,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Pendem",
+        "TGLSURVEI": "2023-11-29 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/616253_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.57915,
+          -7.9210816667
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 616252,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan/Penelitian Lainnya",
+        "NAMLOK": "Yayasan Pendidikan Islam",
+        "NAMSPE": "Hidayatul Rohman Junrejo",
+        "NAMMAP": "Yayasan Pendidikan Islam Hidayatul Rohman Junrejo",
+        "NAMGAZ": "Hidayatul Rohman Junrejo, Yayasan Pendidikan Islam",
+        "KOORDINAT1": "07°55'15.89\" S  112°34'44.94\" T",
+        "ELEVASI": 586.9,
+        "AKURASI": 5.6,
+        "ID_WILAYAH": 3579032006,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Pendem",
+        "TGLSURVEI": "2023-11-29 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/616252_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/616252_2.jpg",
+        "FOTO3": "https://sinar.big.go.id/assets/images/foto/616252_3.jpg",
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.55104832,
+          -7.85959899
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 601186,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan/Penelitian Lainnya",
+        "NAMLOK": "Taman pendidikan al qur an",
+        "NAMSPE": "Nurul Muttaqin",
+        "NAMMAP": "Taman pendidikan al qur an Nurul Muttaqin",
+        "NAMGAZ": "Nurul Muttaqin, Taman pendidikan al qur an",
+        "KOORDINAT1": "07°51'34.55\" S  112°33'03.77\" T",
+        "ELEVASI": 886.138,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579022007,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Giripurno",
+        "TGLSURVEI": "2023-10-17 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/601186_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/601186_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.56277584,
+          -7.87231595
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 601172,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan/Penelitian Lainnya",
+        "NAMLOK": "Taman pendidikan Al qur an",
+        "NAMSPE": "Mifthakul Huda",
+        "NAMMAP": "Taman pendidikan Al qur an Mifthakul Huda",
+        "NAMGAZ": "Mifthakul Huda, Taman pendidikan Al qur an",
+        "KOORDINAT1": "07°52'20.33\" S  112°33'45.99\" T",
+        "ELEVASI": 794.824,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579022007,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Giripurno",
+        "TGLSURVEI": "2023-10-17 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/601172_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/601172_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.53107005,
+          -7.83917563
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 595999,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan/Penelitian Lainnya",
+        "NAMLOK": "SMK",
+        "NAMSPE": "Sekolah Menengah Kejuruan Wiyata Husada",
+        "NAMMAP": "SMK Sekolah Menengah Kejuruan Wiyata Husada",
+        "NAMGAZ": "Sekolah Menengah Kejuruan Wiyata Husada, SMK",
+        "KOORDINAT1": "07°50'21.03\" S  112°31'51.85\" T",
+        "ELEVASI": 1003.64,
+        "AKURASI": 11.4568,
+        "ID_WILAYAH": 3579022008,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Bumiaji",
+        "WADMKD": "Bulukerto",
+        "TGLSURVEI": "2023-09-29 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/595999_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    }
+  ]
+}

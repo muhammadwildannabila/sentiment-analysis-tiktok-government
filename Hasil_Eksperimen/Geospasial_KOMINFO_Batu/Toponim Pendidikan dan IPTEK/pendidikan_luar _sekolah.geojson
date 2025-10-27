@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5274166667,
+          -7.89715
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 595475,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Luar Sekolah",
+        "NAMLOK": "Rumah Belajar",
+        "NAMSPE": "Selvi-Anin",
+        "NAMMAP": "Rumah Belajar Selvi-Anin",
+        "NAMGAZ": "Selvi-Anin, Rumah Belajar",
+        "KOORDINAT1": "07°53'49.74\" S  112°31'38.70\" T",
+        "ELEVASI": 999.7,
+        "AKURASI": 1.7,
+        "ID_WILAYAH": 3579012006,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Oro-oro Ombo",
+        "TGLSURVEI": "2023-10-07 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/595475_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/595475_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.56393991,
+          -7.90697393
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 622890,
+        "KLSTPN": "Toponim Pendidikan dan IPTEK",
+        "FTYPE": "Pendidikan Luar Sekolah",
+        "NAMLOK": "Vektor",
+        "NAMSPE": "Bimbingan belajar",
+        "NAMMAP": "Vektor Bimbingan belajar",
+        "NAMGAZ": "Bimbingan belajar , Vektor",
+        "KOORDINAT1": "07°54'25.10\" S  112°33'50.18\" T",
+        "ELEVASI": 697.827,
+        "AKURASI": 3.79009,
+        "ID_WILAYAH": 3579032005,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Junrejo",
+        "WADMKD": "Mojorejo",
+        "TGLSURVEI": "2023-12-14 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/622890_1.jpg",
+        "FOTO2": null,
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    }
+  ]
+}

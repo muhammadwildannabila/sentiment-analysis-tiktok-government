@@ -1,0 +1,36 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.49361,
+          -7.8573783333
+        ]
+      },
+      "properties": {
+        "ID_TOPONIM": 595867,
+        "KLSTPN": "Toponim Transportasi",
+        "FTYPE": "Jalan",
+        "NAMLOK": "Jalur Klumutan",
+        "NAMSPE": "Jalur Klemuk",
+        "NAMMAP": "Jalur Klumutan Jalur Klemuk",
+        "NAMGAZ": "Jalur Klemuk, Jalur Klumutan",
+        "KOORDINAT1": "07°51'26.56\" S  112°29'36.99\" T",
+        "ELEVASI": 1099.1,
+        "AKURASI": 3.3,
+        "ID_WILAYAH": 3579011003,
+        "WADMKK": "Kota Batu",
+        "WADMKC": "Batu",
+        "WADMKD": "Kelurahan Songgokerto",
+        "TGLSURVEI": "2023-10-06 00:00:00",
+        "FOTO1": "https://sinar.big.go.id/assets/images/foto/595867_1.jpg",
+        "FOTO2": "https://sinar.big.go.id/assets/images/foto/595867_2.jpg",
+        "FOTO3": null,
+        "FOTO4": null
+      }
+    }
+  ]
+}
